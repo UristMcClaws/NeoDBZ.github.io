@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Telekinesis
-permalink: /powers/Telekinesis/
+permalink: /powers/telekinesis/
 nav: false
 ---
 
