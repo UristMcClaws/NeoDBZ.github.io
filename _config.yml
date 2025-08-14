@@ -159,6 +159,10 @@ collections:
     defaults:
       layout: post
     output: true
+  invents:
+    defaults:
+      layout: post
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
