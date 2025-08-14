@@ -28,7 +28,7 @@ children:
   - title: Sword
     permalink: /powers/Sword/
   - title: Ki Awareness
-    permalink: /powers/ki-aware/
+    permalink: /powers/ki-awareness/
   - title: Telekinesis
     permalink: /powers/telekinesis/
   - title: Hybrid
