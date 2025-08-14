@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction
-permalink: /races/introduction/
+permalink: /powers/introduction/
 nav: false
 ---
 
