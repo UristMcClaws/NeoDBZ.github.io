@@ -2,6 +2,8 @@
 layout: about
 title: about2
 permalink: /about2/
+nav: true
+nav order: 10
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
