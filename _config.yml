@@ -167,6 +167,10 @@ collections:
     defaults:
       layout: post
     output: true
+  schools:
+    output: true
+  combat:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
