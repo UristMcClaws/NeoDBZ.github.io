@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Uniques
 nav: true
 nav_order: 2
