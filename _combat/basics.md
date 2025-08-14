@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Combat Basics
-permalink: /races/high-races/
+permalink: /combat/basics/
 nav: false
 ---
 
