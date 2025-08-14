@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Low Races
-permalink: /uniques/low-races/
+permalink: /races/low-races/
 nav: false
 ---
 
