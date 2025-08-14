@@ -5,9 +5,9 @@ nav: true
 nav_order: 6
 dropdown: true
 children:
-  - title: Introduction
+  - title: Public 
     permalink: /schools/public/
   - title: divider
-  - title: Physical
+  - title: Personal
     permalink: /schools/personal/
 ---
