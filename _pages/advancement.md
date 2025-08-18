@@ -3,7 +3,7 @@ layout: default
 title: Advancement
 permalink: /Advancement/
 nav: true
-nav_order: 8
+nav_order: 9
 ---
 In NeoDBZ, levels are rather important. They provide stats, unlock new powers and abilities, improve defenses and damage. Levels are broken down based on Experience Points, which can be gained by doing a number of things in the game, detailed below.
 

@@ -2,7 +2,7 @@
 layout: page
 title: Inventions
 nav: true
-nav_order: 4
+nav_order: 8
 dropdown: true
 children:
   - title: Introduction

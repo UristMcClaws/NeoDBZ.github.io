@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fighting Styles
+title: Styles
 permalink: /fightingstyles/
 nav: true
 nav_order: 4
