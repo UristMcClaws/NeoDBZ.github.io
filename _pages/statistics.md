@@ -21,7 +21,7 @@ Your mental attribute represents how much raw Ki you have and how well you can h
 Your Strength, quite simply, represents how strong you physically are. It is your brute force.
 * 'STR/5' is your bonus to damage rolls with H2H attacks
 * 'STR/5' is your modifier to Parry Blast rolls.
-* 'STR/10' is your modifier to Sword Damage (Unless STR/10 is higher)
+* 'STR/10' is your modifier to Sword Damage (Unless SPD/5 is higher)
 * 'STR' is the primary stat needed for wearing Weighted Clothing.
 
 ## DEX - Dexterity
