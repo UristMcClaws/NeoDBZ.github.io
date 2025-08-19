@@ -5,7 +5,7 @@ permalink: /races/high-races/
 nav: false
 ---
 
-<p><a href="hr2">Bojakchan</a></p>
+<p><a href="[hr2]">Bojakchan</a></p>
 
 ## Androids
 Androids are sentient machines, constructed either from scratch or by heavily modifying an existing organism. In either case the result is a robotic warrior with amazing power capable of far more than a normal human. For hundreds of years, the Neoverse has been thriving to create artifical intelligence for good, evil and everything inbetween. It took many, many years but a group of scientists finally made a breakthrough: A fully sentient machine. It was capable of amazing feats that no human could possibly do without intense training - travel in space being the most prominent. Fortunately for the Neoverse, these scientists rarly shared how the managed to do it, because the Androids rebelled - unable to be controlled by petty humans. It was because of this that the creators decided to stop making them. But, from time to time someone comes across the blueprints and re-creates an android, adding personal touches to them be it impressive shielding capabilities or extreme firepower. Regardless of how, when or why they were created, they are potent warriors with amazing power.
@@ -185,4 +185,4 @@ When you use your 'Advanced Targeting Computer' to lock on in a fight, you may l
 14) Hard Light Weaponry
 This upgrade allows the Android to produce super-high-tech laser weaponry; now able to acquire the 'Ki Shaping' or 'Psionic Entemperment' Powers; ignoring their usual limitations on Androids against taking these Powers. It costs only 5 Ki per Level each swing to use, and the Android gains +5 x Level Misc Mod Damage when attacking.
 
-<h2 id="hr2">Bojakchan</h2>
+<h2 id="[hr2]">Bojakchan</h2>
