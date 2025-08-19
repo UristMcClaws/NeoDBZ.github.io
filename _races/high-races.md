@@ -6,12 +6,12 @@ nav: false
 ---
 
 
-[Androids](#hr1)
-[Bojackan](#hr2)
-[Icer](#hr3)
-[Kibitain](#hr4)
-[Saiyan](#hr5)
-[Yarkon](#hr6)
+[Androids](#hr1)</p>
+[Bojackan](#hr2)</p>
+[Icer](#hr3)</p>
+[Kibitain](#hr4)</p>
+[Saiyan](#hr5)</p>
+[Yarkon](#hr6)</p>
 
 
 <h2 id="hr1">Androids</h2>
@@ -24,23 +24,23 @@ Interesting Traits: Man-made machines, limitless options, mostly human-based (hu
 
 Example: Androids 16 through 20.
 
-Stat	Base
-Int	21
-Mnt	21
-Str	21
-Dex	21
-Stm	N/A
-Spd	21
+Stat	Base</p>
+Int	21</p>
+Mnt	21</p>
+Str	21</p>
+Dex	21</p>
+Stm	N/A</p>
+Spd	21</p>
 Distribute 50 additional points, max of 17 in 1 stat.
 
-HP: 14 x STR + 25 x Level
-KI: 14 x MNT + 25 x Level
+HP: 14 x STR + 25 x Level</p>
+KI: 14 x MNT + 25 x Level</p>
 LP: 17 x STR
 
 Every Level-up, Androids gain 5 points to divide amongst their stats and an automatic 1 to all Stats.
 
-At Level 1, pick six powers.
-Every Level-up, gain two powers.
+At Level 1, pick six powers.</p>
+Every Level-up, gain two powers.</p>
 Every even Level (2, 4, 6, etc), gain one additional Power.
 
 
@@ -193,6 +193,88 @@ When you use your 'Advanced Targeting Computer' to lock on in a fight, you may l
 This upgrade allows the Android to produce super-high-tech laser weaponry; now able to acquire the 'Ki Shaping' or 'Psionic Entemperment' Powers; ignoring their usual limitations on Androids against taking these Powers. It costs only 5 Ki per Level each swing to use, and the Android gains +5 x Level Misc Mod Damage when attacking.
 
 <h2 id="hr2">Bojakchan</h2>
+
+Having wandered the Neoverse for thousands of years, or so is the story, the mighty Bojackans have nowhere to call home. Legend has it their homeworld was destroyed in the War against Hell, others say that they never had a homeworld - they are and always have been the Pirates of the Neoverse. Regardless, they are a force to be reckoned with, as they work amazingly well in teams, taking awesome advantage of the distraction that their teammates provide. Not only are they great in teams, but they have some other interesting abilities that can increase their potential in battle.<br><br>
+Average Height: 6'4" (193 cm)<BR>
+Average Weight: 300 pounds (136 kg)<BR>
+Life Span: 100-150 years.<BR><br>
+Interesting Traits: Blue skin, brightly coloured hair, pointy ears, most are space pirates.<br><br>
+Example: Bojack, Bido, Bujin, Kogu, Zangya.
+  
+  | Stat | Base  |
+|:---:|:------------|
+|  Int  |    20     |
+|  Mnt  |    25     |
+|  Str |     25    |
+|  Dex  |    25    |
+|  Stm  |  25  |
+  |  Spd  |  25  |
+
+> Distribute 58 additional points, max of 20 in 1 stat.<BR><BR>
+HP: 14 x STM + 25 x Level<BR>
+KI: 14 x MNT + 25 x Level<BR>
+LP: 18 x STM<BR><BR>
+Every Level-up, Bojackans gain 5 points to divide amongst their stats and an automatic 1 to all Stats.<br>
+Every Level-up, gain two powers.<br>
+Every even Level (2, 4, 6, etc), gain one additional Power.
+
+<BR>
+#### -=( Racial Features )=-<BR><BR>
+
+* (Ment) Bojackans are granted Base Max Ki/25 damage to all damage types (Charging does not affect this).<BR><BR>
+* (Ment) Bojackans are skilled combatants and know how to take advantage of an enemies hesitation. If they are the first to act in a Round, they receive +5 to all Strikes and Dodges for the rest of that Round. In Team Fight situations; as long as a Bojackan beats all other Opponents Initiative Rolls, they gain this bonus.<BR><BR>
+* (Ment) Bojackans are best suited to work in groups with other warriors. If fighting with a team, they gain +2 to all Strikes and Dodges if they have an Ally on their side. And gain +2 to Strikes and Dodges if they are facing two or more opponents. Defeated characters, characters not currently actively participating in the Battle, and Splitform Powers do not count towards this.<BR><BR>
+* (Ment) Bojackans are reckless fighters by nature, using sudden and unorthodox attacks to catch their opponents off guard. After seeing the initiative rolls, the Bojackan may choose to increase their Initiative total by lowering their Strike and Dodge for the round by -1 per +3 bonus to Initiative, to a maximum of -5 Strike and Dodge and +15 Initiative. If multiple Bojacks are present, they make this choice in order of lowest initially rolled initiative to highest.<BR><BR>
+
+#### -=( Racial Powers )=-<BR><BR>
+
+* (Ment) 'Energy Strands' - This power can not be taken until level 3.<BR>
+Once per Round, Bojackans can fire thin strands of pure energy to entangle and hold an opponent. This costs 5% of the Bojackan's Maximum Ki and counts as a Ki Attack or H2H Attack (their choice) with a -4 penalty to Strike that cannot be parried. If the Bojackan hits, then the target is Grappled by the strands. The target and the strands themselves are considered Grappled together and unable to defend themselves, but the Bojackan is not. The strands have Levelx100 HP, Levelx5 Damage Resistance, are immune to H2H Attacks without SP Charge and use the Bojackan's MNT/2 instead of STR/2 for all Grapple checks. The Strands dissipate if they somehow become the Defender in the grapple. The Bojackan may not use Energy Strands against those already involved in a normal melee Grapple, nor may someone who is caught in the Strands be grappled normally (the strands hurt!). While holding someone, the Bojackan may only take the following actions:
+ * Crush: MNT/2 UP/AP Damage and the victim loses 5 ki per Level of the Bojackan. 
+ * Strand Throw: MNT/2 + MNT Mod + Misc Ki Mods UP Damage and Stuns the Target (even if they take no Damage). Ends the Grapple.
+ * Strand Slam: (MNT + MNT Mod ) + Misc Mods UP Damage. Ends the Grapple.
+
+Bojackans may work together when using Energy Strands. If one Bojackan has someone Grappled with their Energy Strands, any other Bojackans in Combat may choose to use their own Energy Strands against that target, which automatically hits. Each additional Bojackan who adds their Strands causes the original users' MNT to be considered +25% higher any time the Victim attempts to Break free and add their own Strands' HP to the ones Grappling the victim. Only the original user of Strands can make Attacks against the victim, but on each of the additional Bojackan's Actions that this is maintained, the victim loses an additional 5 Ki per Level of that Bojackan. The Bojackans do not gain this Ki; it is simply lost.
+
+  <div class='pageNumber auto'>[Table of Contents](#p2)</div>
+\page
+
+* (Phys) 'Superform' - This Power can not be taken until level 5.<br> It allows the Bojack to transform into a stronger state, which grants the the following bonuses:
+ * +20% Mnt
+ * +20% Str
+ * +20% Dex
+ * +20% Stm
+ * +20% Spd
+ * This costs 10% of your Base END.
+ * At Level 7; their Superform gets more powerful, granting +2 to their HP and Ki Mods. 
+ * At Level 11 it increases again; no longer costing any END to activate and it can then be activated as a Pre-Round Action.
+
+
+#### -=( Racial Class )=-<BR><BR>
+
+All Bojackans have a Racial class which determines some of their starting abilities. Any Racial class may be picked at creation except for Legendary Bojackan, if the player wants Legendary Bojackan, they must apply for it with a background or take the Chosen Unique.<BR><BR>
+#### Bojackan Duelist
+* STM x 2 END
+* Up to twice per Round, when you fail a Parry Roll, you may pay 4 END to Reflexively Block, Advanced Block or Power Block if you know these Powers.
+* +Level x 5 Damage to all Sword Attacks.
+
+#### Bojackan Warrior
+* STM x 2 END
+* Gain Level x 3 Resistance.
+* They use MNT/4 as their Modifier for H2H Damage Rolls and the Parry Blast power. The power Multi-Kick uses MNT/3 as its Damage Modifier.
+
+#### Bojackan Warlock
+* The HP of Energy Strands increased to 200 x Level HP.
+* When you use Energy Strands; you may double its Cost to Attack two seperate people. If you have two people Grappled with the strands on your turn, any Attack action you make applies to both people.
+* +2 Ki Mod on Creation.
+
+#### -=( Restricted Class )=-
+This class must be applied for with a character background and approved by the GM staff. There will be a maximum of one Legendary Bojackan at any given time.<BR>
+Legendary Bojackan
+* +1 to your HP and Ki Mod
+* +1 APR
+* +1 +5% all Stats while in your Superform.
+* Your Level is considered 2 higher, for the purposes of qualifying for and determining the effects of your Superform.
 
 <h2 id="hr3">Icer</h2>
 
