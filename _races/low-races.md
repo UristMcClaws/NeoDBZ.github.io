@@ -164,9 +164,9 @@ Example:  Krillin (Kuririn).<br>
 - (Ment) Martial Artists have Ki Regen equal to Levelx5.<br><br>
 - (Ment) If a Martial Artist fires a Discharge (or any improved version of it) for half or less of its Ki cost, it is instead free. Addons are still paid for seperately.<br><br>
 - (Phys) 'Martial Artist Aura'<br>When you declare the use of this ability with a power, it allows you to pay Ki costs by 'spending' your HP instead. or you can use it as a defensive Aura:
-- This Aura costs 1 Ki for every 1 damage and is SP Resistant and may be used Reflexively. There is no limit to the amount of Ki that may be spent. Unlike other Auras, this may be used multiple times against Combo attacks. HP may not be used to fuel this Martial Artist Aura.
-- This does not mean Martial Artists can freely swap HP and Ki.
-- The cost of this ability can never be reduced by more than 50% with suppression; even at 90% suppression.<br><br>
+  - This Aura costs 1 Ki for every 1 damage and is SP Resistant and may be used Reflexively. There is no limit to the amount of Ki that may be spent. Unlike other Auras, this may be used multiple times against Combo attacks. HP may not be used to fuel this Martial Artist Aura.
+  - This does not mean Martial Artists can freely swap HP and Ki.
+  - The cost of this ability can never be reduced by more than 50% with suppression; even at 90% suppression.<br><br>
 - (Ment) Martial Artists start with a Regular School of their choice at Level 1 and gain another school for free at Level 5, 10, 15, and 20. If they do not have the INT to learn another school, this takes them temporarily above their limit, but may delay learning future schools. Schools gained in this way grant double the normal stat bonus. Martial Artists can not know more than one school for every 8 points of INT.<br><br>
 - (Ment) Truly experienced Martial Artists are great at mixing everything they have learned into a big pot of techniques that can be molded into their own, growing school. At Level 7; a Martial Artist can submit a 'Player Created School' to the GMs, as if they'd possessed it from Level 1. Simply having the School doesn't make people want it, though and as the Martial Artist improves, so does its fame. At Level 12; the Martial Artist can then teach their school to up to two other player characters. This training takes 2 Neo Weeks. During this time, neither player is allowed to fight or EXP train.<br><br>
 
