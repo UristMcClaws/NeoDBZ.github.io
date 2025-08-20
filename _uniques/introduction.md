@@ -27,17 +27,20 @@ Developmental
 These uniques affect your character's growth and are always most noticeable later on as levels progress. Their effect is usually minimal at the start, but increases as time passes.
 
 ## Special Uniques
+
 The two uniques listed here are special; in that they don't fit into any specific category. If you wish to have either (or both) of these uniques, you take each Unique in place of another category; counting for that Categories selection.
 
 ### Chosen
+
 This unique represents the hidden potential of a person that is beyond the norms, their capacity to improve and unleash their true limits on what they can achieve. While some will live their entire lives never finding it.
 
-* You gain +5 to all Stats on creation.
-* You gain +1 to all stats every 3 levels (3,6,9,etc)
-* You gain +1 to your Hp/Ki Modifiers on creation.
-* You gain +level x 2 HP/Ki Regen, while in any Superform.
+- You gain +5 to all Stats on creation.
+- You gain +1 to all stats every 3 levels (3,6,9,etc)
+- You gain +1 to your Hp/Ki Modifiers on creation.
+- You gain +level x 2 HP/Ki Regen, while in any Superform.
 
 ### Enhanced Awareness
+
 When everyone knows how to sense the presence of others, there's nowhere to hide. But You know how your aura can be manipulated far better than any other. People only know as much about you as you let them know.
 
 You can never be affected by the Ki Awareness powers 'Sense Ki', 'Universal Awareness' and 'Sense Path' unless you allow yourself to be.

@@ -4,6 +4,7 @@ title: Statistics
 permalink: /paths/
 nav: false
 ---
+
 Outside of crunched numbers exists the reason your character breathes. What is he or she doing in the Neo Universe? Are they a fallen god bent on bringing the Kaioshins to their knees or are they an angel sent to protect the innocent from the strong?
 
 This section is here to help you flesh out your character's purpose and provide a reason why they act the way they do, not unlike an alignment system may work for DnD.
@@ -12,9 +13,7 @@ Every character has a path that provide added depth or context; an Evil Mercy ch
 
 Paths also provide you with a God to worship or represent, which may be reflected through the plot and doing so can have some interesting benefits, even in death. Sometimes especially so.
 
-
 If for some reason an event or desire to change Paths comes up, speak with a GM to have it changed and provide context / evidence for the change to occur. It may be undone if you fail to follow the new path.
-
 
 Or, maybe you don't deny the Kaioshin's exist, but you don't worship them or believe they are the Gods they might make out to be. There are varying beliefs or reasons for this, but for the purposes of simplicity, anyone who does not worship them are considered 'Pathless'. Yet they still have their own Path to follow.
 
@@ -23,13 +22,11 @@ Balance
 
 The universe constantly teeters somewhere between the brink of destruction and a holy paradise, while more often than not it is somewhere in between. Things get dangerous when the universe tends towards one side or the other. You know there are no absolutes - everything is a shade of grey and always should be. When the scales tip too far to one side the universe becomes a tyranny of the majority and you step up to the place to assist the underdog.
 
-
 The Path of Balance is acknowledging that while rampant, unfettered chaos is bad and so is perfect order.
 
 The downside is Balance is often too concerned with the 'big picture' to realize it can be the small things that matter to a person or that they shelf their compassion for it. Maintaining this Path that Balance characters believe in, is hard and unfortunately what exactly needs to be done to maintain it is the vaguest of all the Paths to choose.
 
 There is a harmony in the universe, Balance has an intuitive sense of what it is, and strives to maintain it.
-
 
 Retribution
 "We are the hollow men, We are the stuffed men
@@ -70,15 +67,12 @@ Many people lead lives that are deadly to their well being and those around them
 
 While some might be willing to accept sacrificing their soul to teach others, the way of Mercy suggests other ways. So those that have wronged others must be met with forgiveness and education, but every man has his breaking point eventually. One day even the most stalwart of heroes will snap and may regret their actions. Sometimes this results in nothing more than a few broken mountains. Yet, there are many who never fall from Mercy's grace and are even Sainted by the Church representing this Kaioshin. And those who do fall, well they will one day be redeemed in the afterlife.
 
-
 Order
 "Justice implies superior character and intelligence while injustice means deficiency in both respects. Therefore, just men are superior in character and intelligence and are more effective in action. As injustice implies ignorance, stupidity and badness, It cannot be superior in character and intelligence. A just man is wiser because he acknowledges the principle of limit. Unlimited self-assertion is not a source of strength for any group organized for common purpose, Unlimited desire and claims lead to conflicts. Life of just man is better and happier. There is always some specific virtue in everything, which enables it to work well. If it is deprived of that virtue, it works badly. The soul has specific functions to perform. When it performs its specific functions, it has specific excellence or virtue. If, it is deprived of its peculiar virtue, it cannot possibly do its work well. It is agreed that the virtue of the soul is justice. The soul which is more virtuous or in other words more just is also the happier soul. Therefore, a just man lives happy. A just soul, in other words a just man, lives well, an unjust cannot." (Plato)
 
 Order is complete, total, perfect organisation and rule. There is a hierarchy and you follow it, always and without question. Chance has no need to exist. Miracles should not happen. There is no need for change and in fact, change is bad.
 
-
 Those who follow the Teachings of Order do not follow the teachings of a pathetic society. but civility. They have a grasp on an Order that is higher than mere society - fortunately part of that understanding is the acceptance of local envoys of order; the law makers in society who seek to establish rules and restrictions where there are none. But if the teachings of any society conflict with the divine order they acknowledge, then they will follow their heart and listen to the universe's needs for structure to oppose it. Without order, justice cannot be brought about on those who deserve to be judged.
-
 
 Chaos
 "So, after all, there was not one kind of Strife alone, but all over the earth there are two. As for the one, a man would praise her when he came to understand her, but the other is blameworthy: and they are wholly different in nature. For one fosters evil war and battle, being cruel: her no man loves, but perforce, through the will of the deathless gods, men pay harsh Strife her honour due. But the other is the elder daughter of dark Night (Nyx), and the son of Cronus who sits above and dwells in the aether, set her in the roots of the earth: and she is far kinder to men. She stirs up even the shiftless to toil, for a man grows eager to work when he considers his neighbour, a rich man who hastens to plough and plant and put his house in good order, and neighbour vies with his neighbour as he hurries after wealth. This Strife is wholesome for men. And potter is angry with potter, and craftsman with craftsman, and beggar is jealous of beggar, and minstrel of minstrel. But abhorred Eris ('Strife') bare painful Ponos ('Toil/Labor'), Lethe ('Forgetfulness') and Limos ('Famine') and tearful Algea (Pains/Sorrows), Hysminai ('Fightings/Combats') also, Makhai ('Battles'), Phonoi ('Murders/Slaughterings'), Androctasiai ('Manslaughters'), Neikea ('Quarrels'), Pseudea ('Lies/Falsehoods'), Amphillogiai ('Disputes'), Dysnomia ('Lawlessness') and Ate ('Ruin/Folly'), all of one nature, and Horkos ('Oath') who most troubles men upon earth when anyone wilfully swears a false oath." (Hesoid)

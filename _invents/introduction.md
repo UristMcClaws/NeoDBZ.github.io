@@ -11,4 +11,4 @@ Invents are defined by their 'level', which is the level they are aquired - not 
 
 Invents begin with a base of 30 Invent Points, which can be altered by Uniques or Racial traits. Each level you gain after aquiring the Invent, accrues cumulative points. The next level after obtaining the invent, increases the points by the previous ammount +5.
 
-Base Template:  **[(25xlevels you've had the invent)+((2.5xlevels you've had the invent) x (levels you've had the invent+1))]**
+Base Template: **[(25xlevels you've had the invent)+((2.5xlevels you've had the invent) x (levels you've had the invent+1))]**

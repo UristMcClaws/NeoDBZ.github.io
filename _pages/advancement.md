@@ -5,6 +5,7 @@ permalink: /Advancement/
 nav: true
 nav_order: 9
 ---
+
 In NeoDBZ, levels are rather important. They provide stats, unlock new powers and abilities, improve defenses and damage. Levels are broken down based on Experience Points, which can be gained by doing a number of things in the game, detailed below.
 
 Remember that activity on the server is logged.
@@ -56,14 +57,11 @@ No single "team" in a fight may contain more than 3 fighters at one time. A figh
 
 Rewards and Penalties
 
-
 Winning a Fight grants 200 XP and 100 credits
 
 Losing a Fight grants 125 XP and 25 credits
 
 Tieing a Fight grants 150 XP and 50 credits
-
-
 
 Bonuses to Fights Only
 
@@ -78,8 +76,6 @@ Bonuses to Fights Only
 +10 XP for each opponent beyond the first who outlevels you.
 
 +100 XP for your First Fight per OOC Day, regardless of whether you win or lose.
-
-
 
 Penalties to Fights Only
 
@@ -153,23 +149,23 @@ Some Tournaments or Events could also effect Reputation positively or negatively
 Leveling Up; the Quick and Dirty Guide.
 Finally, compiled (and updated) into one small, easy to use guide, the step to step basics of leveling up a Neo DBZ character. This is simply a guiding hand of what to do in order, but you're by no means limited by this step by step guide.
 
-1) Stat Points:
+1. Stat Points:
 
 Check your racial information and uniques for how many stat points you are allocated upon leveling up. Most races get 5 points, but it doesn't hurt to check as you might get more from a unique or special level that your race enjoys. Once you've allocated all your stats, you can move onto the next part.
 
-2) Powers:
+2. Powers:
 
 Depending on your racial information, you recieve a number of powers each level up. Without any unique alteration, you're allowed a maximum of half (rounded down) of the powers in each tree. These powers can also be used to purchase Racial Powers, assuming you meet the prerequisties to do so.
 
-3) Invents:
+3. Invents:
 
 Next, update your personal Invents and School Invents. Some levels might also give you access to additional invents. A level means more points for personal invents to improve and always means more damage or defense!
 
-4) Secondry Attributes:
+4. Secondry Attributes:
 
 Each time you level, your HP, LP, End and Ki (amongst other things) tends to improve. Make sure you check that these stats have next been updated. Some races gain HP mods and so on when they level, so look out for those goodies! Also you DO count level 1, for things like resistances etc.
 
-5) Refiguring:
+5. Refiguring:
 
 Finally, you double check if any of your rollers have changed as a result of your stat increases. You also recalculate your power level and anything else that might've been changed, such as APR or Init.
 
@@ -177,19 +173,19 @@ Table of Contents
 
 Experience Table
 The Experience Table
-Level	Low	    Medium	High
-2	    1000	1200	1400
-3	    2200	2600	3000
-4	    3600	4200	4800
-5	    5200	6000	6800
-6	    7200	8400	9600
-7	    9400	11000	12600
-8	    11800	13800	15800
-9	    14400	16800	19200
-10	    17200	20000	22800
-11	    20600	24000	27400
-12	    24200	28200	32200
-13	    28000	32600	37200
-14	    32000	37200	42400
-15	    36200	42000	47800
-16	    +5000	+5500	+6000
+Level Low Medium High
+2 1000 1200 1400
+3 2200 2600 3000
+4 3600 4200 4800
+5 5200 6000 6800
+6 7200 8400 9600
+7 9400 11000 12600
+8 11800 13800 15800
+9 14400 16800 19200
+10 17200 20000 22800
+11 20600 24000 27400
+12 24200 28200 32200
+13 28000 32600 37200
+14 32000 37200 42400
+15 36200 42000 47800
+16 +5000 +5500 +6000

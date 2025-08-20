@@ -20,13 +20,13 @@ Interesting Traits: Though unable to breed; Chou-jin have different sexes. Most 
 
 Example: Chiaotzu.
 
-Stat	    Base
-Int	        18
-Mnt	        20
-Str	        8
-Dex	        8
-Stm	        9
-Spd	        12
+Stat Base
+Int 18
+Mnt 20
+Str 8
+Dex 8
+Stm 9
+Spd 12
 Distribute 27 additional points, max of 9 in 1 stat.
 
 HP: 8 x STM + 10 x Level
@@ -63,7 +63,6 @@ With this, the Chou-jin can communicate for no Ki cost across any distance with 
 (Ment) 'Mental Barrier' - This power is automatically obtained at Level 5.
 The Chou-jin are able to tap in to their Ki and manipulate it to grant a constant form of protection. This gives a Resistance value based on your MNT/4. Stacking with other forms of Resistance.
 
-
 <h2 id="hr2">Ligon</h2>
 Ligons are a small, green-skinned people with four eyes. They are renowned for both their ability to manipulate time and their unrelenting refusal to provide any details about their home world, Ligon. This paranoia is so widespread that it often follows Ligons to other planets they live on, such is the case of Liquius where even the humans and reptiles on the planet feel the same paranoia about world visitors. Though one would be wise not to say this to them, Ligon are very much distant relatives to frogs. Though they are humanoid, they are amphibians, not mammals.
 
@@ -76,13 +75,13 @@ Interesting Traits: Frog-like creatures, four eyes, green skin.
 
 Example: Guldo.
 
-Stat	Base
-Int	18
-Mnt	16
-Str	8
-Dex	10
-Stm	12
-Spd	10
+Stat Base
+Int 18
+Mnt 16
+Str 8
+Dex 10
+Stm 12
+Spd 10
 Distribute 27 additional points, max of 9 in 1 stat.
 
 HP: 11 x STM + 20 x Level
@@ -96,12 +95,6 @@ Every Level-up, Ligons gain 5 points to divide amongst their stats and an automa
 
 At Level 1, pick Six powers.
 Every Level-up, gain two powers.
-
-
-
-
-
-
 
 -=( Racial Features )=-
 
@@ -147,27 +140,29 @@ Example:  Krillin (Kuririn).<br>
 |  Spd  |   10 |
 
 > Distribute 27 additional points, max of 9 in 1 stat.<BR><br>
-HP: 10 x STM + 15 x Level<BR>
-Ki: 13 x MNT + 25 x Level<BR>
-LP: 15 x STM<BR><BR>
-HP Mod Increase at: 4, 8, 12, etc.<BR>
-Ki Mod Increase at: 6, 12, 18, etc.<BR><BR>
-Every Level-up, Martial Artists gain 5 points to divide amongst their stats and an automatic 1 to all Stats.<br><br>
-At Level 1, pick six powers. <br>
-Every Level-up, gain two powers.
+> HP: 10 x STM + 15 x Level<BR>
+> Ki: 13 x MNT + 25 x Level<BR>
+> LP: 15 x STM<BR><BR>
+> HP Mod Increase at: 4, 8, 12, etc.<BR>
+> Ki Mod Increase at: 6, 12, 18, etc.<BR><BR>
+> Every Level-up, Martial Artists gain 5 points to divide amongst their stats and an automatic 1 to all Stats.<br><br>
+> At Level 1, pick six powers. <br>
+> Every Level-up, gain two powers.
 
 <br><br><br><br>
 
 #### -=( Racial Features )=-<br><br>
-* (Ment) Martial Artists have Ki Regen equal to Levelx5.<br><br>
-* (Ment) If a Martial Artist fires a Discharge (or any improved version of it) for half or less of its Ki cost, it is instead free. Addons are still paid for seperately.<br><br>
-* (Phys) 'Martial Artist Aura'<br>When you declare the use of this ability with a power, it allows you to pay Ki costs by 'spending' your HP instead. or you can use it as a defensive Aura:
- * This Aura costs 1 Ki for every 1 damage and is SP Resistant and may be used Reflexively. There is no limit to the amount of Ki that may be spent. Unlike other Auras, this may be used multiple times against Combo attacks. HP may not be used to fuel this Martial Artist Aura.
- * This does not mean Martial Artists can freely swap HP and Ki.
- * The cost of this ability can never be reduced by more than 50% with suppression; even at 90% suppression.<br><br>
-* (Ment) Martial Artists start with a Regular School of their choice at Level 1 and gain another school for free at Level 5, 10, 15, and 20. If they do not have the INT to learn another school, this takes them temporarily above their limit, but may delay learning future schools. Schools gained in this way grant double the normal stat bonus. Martial Artists can not know more than one school for every 8 points of INT.<br><br>
-* (Ment) Truly experienced Martial Artists are great at mixing everything they have learned into a big pot of techniques that can be molded into their own, growing school. At Level 7; a Martial Artist can submit a 'Player Created School' to the GMs, as if they'd possessed it from Level 1. Simply having the School doesn't make people want it, though and as the Martial Artist improves, so does its fame. At Level 12; the Martial Artist can then teach their school to up to two other player characters. This training takes 2 Neo Weeks. During this time, neither player is allowed to fight or EXP train.<br><br>
+
+- (Ment) Martial Artists have Ki Regen equal to Levelx5.<br><br>
+- (Ment) If a Martial Artist fires a Discharge (or any improved version of it) for half or less of its Ki cost, it is instead free. Addons are still paid for seperately.<br><br>
+- (Phys) 'Martial Artist Aura'<br>When you declare the use of this ability with a power, it allows you to pay Ki costs by 'spending' your HP instead. or you can use it as a defensive Aura:
+- This Aura costs 1 Ki for every 1 damage and is SP Resistant and may be used Reflexively. There is no limit to the amount of Ki that may be spent. Unlike other Auras, this may be used multiple times against Combo attacks. HP may not be used to fuel this Martial Artist Aura.
+- This does not mean Martial Artists can freely swap HP and Ki.
+- The cost of this ability can never be reduced by more than 50% with suppression; even at 90% suppression.<br><br>
+- (Ment) Martial Artists start with a Regular School of their choice at Level 1 and gain another school for free at Level 5, 10, 15, and 20. If they do not have the INT to learn another school, this takes them temporarily above their limit, but may delay learning future schools. Schools gained in this way grant double the normal stat bonus. Martial Artists can not know more than one school for every 8 points of INT.<br><br>
+- (Ment) Truly experienced Martial Artists are great at mixing everything they have learned into a big pot of techniques that can be molded into their own, growing school. At Level 7; a Martial Artist can submit a 'Player Created School' to the GMs, as if they'd possessed it from Level 1. Simply having the School doesn't make people want it, though and as the Martial Artist improves, so does its fame. At Level 12; the Martial Artist can then teach their school to up to two other player characters. This training takes 2 Neo Weeks. During this time, neither player is allowed to fight or EXP train.<br><br>
 
 #### -=( Racial Powers )=-<br><br>
-* (Ment) 'Trained' - This power is automatically obtained at Level 1.<br>A Martial Artist chooses one of the powers granted to them by their first Regular School's power list; that power is considered to be three levels higher than it actually is. If you already have a power and gain a higher level as a result, they can't choose that power to be Trained. The School's Invent can be chosen.<br><br>
-* (Ment) 'Supreme Shield' - The Martial Artist must be Level 5 before taking this power.<br>The Martial Artist can now use his 'Martial Artist Aura' to block one Unpreventable attack per round, at the cost of 1 Ki per 1 damage. There is no limit to the amount of Ki that can be spent. This ability counts as a reflexive shield, like his normal Martial Artist Aura. Suppress Powerlevel does not reduce the costs of this shield.
+
+- (Ment) 'Trained' - This power is automatically obtained at Level 1.<br>A Martial Artist chooses one of the powers granted to them by their first Regular School's power list; that power is considered to be three levels higher than it actually is. If you already have a power and gain a higher level as a result, they can't choose that power to be Trained. The School's Invent can be chosen.<br><br>
+- (Ment) 'Supreme Shield' - The Martial Artist must be Level 5 before taking this power.<br>The Martial Artist can now use his 'Martial Artist Aura' to block one Unpreventable attack per round, at the cost of 1 Ki per 1 damage. There is no limit to the amount of Ki that can be spent. This ability counts as a reflexive shield, like his normal Martial Artist Aura. Suppress Powerlevel does not reduce the costs of this shield.

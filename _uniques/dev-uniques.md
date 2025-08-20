@@ -6,7 +6,8 @@ nav: false
 ---
 
 ### Agile
+
 You're quick and nimble.
 
-* You gain +10 to Dexterity and Speed at creation.
-* You gain +3 to Dexterity and Speed every Level-up.
+- You gain +10 to Dexterity and Speed at creation.
+- You gain +3 to Dexterity and Speed every Level-up.
