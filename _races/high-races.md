@@ -13,6 +13,54 @@ nav: false
 [Saiyan](#hr5)<br>
 [Yarkon](#hr6)<br>
 
+<!-- Add this at the top of your Markdown file or in your layout file -->
+
+<style>
+.toc-sidebar {
+  position: fixed;
+  top: 100px; /* adjust as needed */
+  left: 0;
+  width: 220px;
+  background: #f8f8f8;
+  border-right: 1px solid #ddd;
+  padding: 20px 10px;
+  height: 80vh;
+  overflow-y: auto;
+  z-index: 1000;
+}
+.toc-sidebar ul {
+  list-style: none;
+  padding-left: 0;
+}
+.toc-sidebar li {
+  margin-bottom: 8px;
+}
+.toc-sidebar a {
+  text-decoration: none;
+  color: #333;
+}
+.toc-sidebar a:hover {
+  text-decoration: underline;
+}
+body {
+  margin-left: 240px; /* add space for the sidebar */
+}
+</style>
+
+<div class="toc-sidebar">
+  <strong>Table of Contents</strong>
+  <ul>
+    <li><a href="#hr1">Androids</a></li>
+    <li><a href="#hr2">Bojackan</a></li>
+    <li><a href="#hr3">Icer</a></li>
+    <li><a href="#hr4">Kibitain</a></li>
+    <li><a href="#hr5">Saiyan</a></li>
+    <li><a href="#hr6">Yarkon</a></li>
+  </ul>
+</div>
+
+
+
 
 <h2 id="hr1">Androids</h2>
 Androids are sentient machines, constructed either from scratch or by heavily modifying an existing organism. In either case the result is a robotic warrior with amazing power capable of far more than a normal human. For hundreds of years, the Neoverse has been thriving to create artifical intelligence for good, evil and everything inbetween. It took many, many years but a group of scientists finally made a breakthrough: A fully sentient machine. It was capable of amazing feats that no human could possibly do without intense training - travel in space being the most prominent. Fortunately for the Neoverse, these scientists rarly shared how the managed to do it, because the Androids rebelled - unable to be controlled by petty humans. It was because of this that the creators decided to stop making them. But, from time to time someone comes across the blueprints and re-creates an android, adding personal touches to them be it impressive shielding capabilities or extreme firepower. Regardless of how, when or why they were created, they are potent warriors with amazing power.<br><br>
