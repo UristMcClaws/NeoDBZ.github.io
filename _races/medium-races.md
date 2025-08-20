@@ -3,6 +3,9 @@ layout: default
 title: Medium Races
 permalink: /races/medium-races/
 nav: false
+
+toc:
+  sidebar: left
 ---
 
 ## Dodorian

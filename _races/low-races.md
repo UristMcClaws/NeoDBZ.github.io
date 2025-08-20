@@ -3,6 +3,9 @@ layout: default
 title: Low Races
 permalink: /races/low-races/
 nav: false
+
+toc:
+  sidebar: left
 ---
 
 ## Chou-jin
