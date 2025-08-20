@@ -20,26 +20,24 @@ Interesting Traits: Though unable to breed; Chou-jin have different sexes. Most 
 
 Example: Chiaotzu.
 
-Stat Base
-Int 18
-Mnt 20
-Str 8
-Dex 8
-Stm 9
-Spd 12
-Distribute 27 additional points, max of 9 in 1 stat.
+| Stat | Base |
+| :--: | :--: |
+| Int  |  18  |
+| Mnt  |  20  |
+| Str  |  8   |
+| Dex  |  8   |
+| Stm  |  9   |
+| Spd  |  12  |
 
-HP: 8 x STM + 10 x Level
-Ki: 15 x MNT + 30 x Level
-LP: 15 x STM
-
-HP Mod Increase at: 4, 8, 12, etc.
-Ki Mod Increase at: 6, 12, 18, etc.
-
-Every Level-up, Chou-jin gain 5 points to divide amongst their stats and an automatic +1 to all Stats.
-
-At Level 1, pick six powers.
-Every Level-up, gain two powers.
+> Distribute 27 additional points, max of 9 in 1 stat.
+> HP: 8 x STM + 10 x Level
+> Ki: 15 x MNT + 30 x Level
+> LP: 15 x STM
+> HP Mod Increase at: 4, 8, 12, etc.
+> Ki Mod Increase at: 6, 12, 18, etc.
+> Every Level-up, Chou-jin gain 5 points to divide amongst their stats and an automatic +1 to all Stats.
+> At Level 1, pick six powers.
+> Every Level-up, gain two powers.
 
 -=( Racial Features )=-
 
@@ -75,26 +73,24 @@ Interesting Traits: Frog-like creatures, four eyes, green skin.
 
 Example: Guldo.
 
-Stat Base
-Int 18
-Mnt 16
-Str 8
-Dex 10
-Stm 12
-Spd 10
-Distribute 27 additional points, max of 9 in 1 stat.
+| Stat | Base |
+| :--: | :--: |
+| Int  |  18  |
+| Mnt  |  16  |
+| Str  |  8   |
+| Dex  |  10  |
+| Stm  |  12  |
+| Spd  |  10  |
 
-HP: 11 x STM + 20 x Level
-Ki: 12 x MNT + 20 x Level
-LP: 15 x STM
-
-HP Mod Increase at: 5, 10, 15, etc.
-Ki Mod Increase at: 5, 10, 15, etc.
-
-Every Level-up, Ligons gain 5 points to divide amongst their stats and an automatic +1 to all stats.
-
-At Level 1, pick Six powers.
-Every Level-up, gain two powers.
+> Distribute 27 additional points, max of 9 in 1 stat.
+> HP: 11 x STM + 20 x Level
+> Ki: 12 x MNT + 20 x Level
+> LP: 15 x STM
+> HP Mod Increase at: 5, 10, 15, etc.
+> Ki Mod Increase at: 5, 10, 15, etc.
+> Every Level-up, Ligons gain 5 points to divide amongst their stats and an automatic +1 to all stats.
+> At Level 1, pick Six powers.
+> Every Level-up, gain two powers.
 
 -=( Racial Features )=-
 
@@ -130,14 +126,14 @@ Life Span: 60-80 years.<br>
 Interesting Traits: Especially resilient, Adaptable.<br><br>
 Example:  Krillin (Kuririn).<br>
   
-   | Stat | Base  |
-|:---:|:------------|
-|  Int  |     16    |
-|  Mnt  |      16   |
-|  Str |     10    |
-|  Dex  |     11   |
-|  Stm  |  12 |
-|  Spd  |   10 |
+| Stat  | Base |
+|:-----:|:----:|
+|  Int  |  16  |
+|  Mnt  |  16  |
+|  Str  |  10  |
+|  Dex  |  11  |
+|  Stm  |  12  |
+|  Spd  |  10  |
 
 > Distribute 27 additional points, max of 9 in 1 stat.<BR><br>
 > HP: 10 x STM + 15 x Level<BR>
