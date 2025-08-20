@@ -21,9 +21,7 @@ Powers: You gain the following powers at the listed levels. Unlike schools, you 
 
 Every level up you gain one power from Defensive, Defensive Ki, or Superspeed Power Trees.
 
-
 Stats
-
 
 +15 MNT
 +15 DEX
@@ -44,7 +42,6 @@ Level: X2
 Type: Passive
 Description: Up to twice per round you may choose to reflexively Block an attack after a failed Dodge or Parry roll. You may only use the powers Block, Power Block, or Advanced Block with this power.
 
-
 At level 10 you may select one of the following Powers. They may not be otherwise learned.
 
 Power Name: Stone Skin
@@ -63,16 +60,13 @@ Description: You hold off on your defense until you see the white of your oppone
 
 Table of Contents
 
-
 Hand to Hand Fighting Style
 Powers:
 You gain the following powers at the listed levels. Unlike schools, you do not gain a power in a higher category if you already know the listed powers. After level 1, you will always have the option of one of two powers. These powers ignore the normal pre-requsites.
 
 Every level up you gain one power from Defensive, h2h, or Ki Body Enhancement Power Trees.
 
-
 Stats
-
 
 +10 MNT
 +15 DEX
@@ -102,7 +96,6 @@ Cost: 4 End
 UPR: 1/battle
 Description: You perform a powerful spinning kick that knocks the opponent in the air, setting them up for even stronger attacks. This attack has a +3 bonus to strike and deals 1d4x10 damage per level, +(STR+SPD). However, until your opponent's next action all of your attacks against them deal +Levelx10 damage and gain a +2 bonus to strike. The power "Pound" ends this effect, but deals another +Levelx10 damage and stuns the opponent for one action.
 
-
 Template: {(2d8 per level + Str mod + (STR + SPD)) + Misc mods + Bulk} Bonus Damage Template: {((Base Damage + STR Mod) + Misc Mods + Levelx10) + Bulk}
 Bonus Pound Damage: {((4d6 + Str mod) + Misc mods + Levelx20) + Bulk} Stun
 
@@ -117,16 +110,13 @@ Template: {(1d8 x 10 damage per level + STR Mod + (Opponent's Missing HP)/2) + M
 
 Table of Contents
 
-
 Ki Fighting Style
 Powers:
 You gain the following powers at the listed levels. Unlike schools, you do not gain a power in a higher category if you already know the listed powers. After level 1, you will always have the option of one of two powers. These powers ignore the normal pre-requsites.
 
 Every level up you gain one power from Offensive Ki, Powering Up, or Ki Awareness Power Trees.
 
-
 Stats
-
 
 +15 MNT
 +13 DEX
@@ -148,7 +138,6 @@ Type: Passive
 Description: You may spend an additional 5 Ki per level on the powers "Aura of Protection" and "Supreme Aura." You may also use Chi of Fortitude at a reduced cost. When using AoP or Supreme Aura with Chi of Fortitude you pay 50% more Ki, instead of the normal 100% increase.
 
 Note: Chi of Fortitude still costs 2 Endurance to use.
-
 
 At level 10 you may select one of the following Powers. They may not be otherwise learned.
 
@@ -183,9 +172,7 @@ Powers: You gain the following powers at the listed levels. Unlike schools, you 
 
 Every level up you gain one power from Sword, Superspeed, or Ki Body Enhancement Power Trees.
 
-
 Stats
-
 
 +10 MNT
 +15 DEX
@@ -226,14 +213,12 @@ Description: A sword attack modified by this add-on is capable of severing the o
 
 Table of Contents
 
-
 Lone Wolf Style
 The lone wolf fighting style is for those who prefer to fight alone. As such you are somewhat stronger and flexible than most. However, you may not teach nor gain the benefits of a guild or personal school. You may learn your own school provided your race gives that option. Furthermore any fight you participate in, your allies gain half experience fighting by your side. Finally if two lone wolves ally, no one on their side gets any experience or reputation.
 
 You get one power per level which must be from Ki Offensive, H2H, or Swords.
 
 Stats
-
 
 +5 INT
 +13 MNT

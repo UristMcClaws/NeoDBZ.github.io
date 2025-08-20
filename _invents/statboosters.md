@@ -15,8 +15,8 @@ Statboosters cost 1 END per 4 points added to your stats.
 
 NOTES ABOUT STATBOOSTERS
 
-* You can only use a Stat Booster once per battle.
-* You can not use a Stat Booster preround, only by spending an action.
-* You can not raise your INT with a Stat Booster.
-* Stat Boosters are not compatible with other Superforms.
-* Increases in stats will result in increases to secondary attributes, such as HP, End, Ki, APR, Shield HP, etc. That is handled the same as it is for Superforms.
+- You can only use a Stat Booster once per battle.
+- You can not use a Stat Booster preround, only by spending an action.
+- You can not raise your INT with a Stat Booster.
+- Stat Boosters are not compatible with other Superforms.
+- Increases in stats will result in increases to secondary attributes, such as HP, End, Ki, APR, Shield HP, etc. That is handled the same as it is for Superforms.

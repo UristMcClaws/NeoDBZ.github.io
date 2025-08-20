@@ -6,6 +6,7 @@ nav: false
 ---
 
 ## Androids
+
 Androids are sentient machines, constructed either from scratch or by heavily modifying an existing organism. In either case the result is a robotic warrior with amazing power capable of far more than a normal human. For hundreds of years, the Neoverse has been thriving to create artifical intelligence for good, evil and everything inbetween. It took many, many years but a group of scientists finally made a breakthrough: A fully sentient machine. It was capable of amazing feats that no human could possibly do without intense training - travel in space being the most prominent. Fortunately for the Neoverse, these scientists rarly shared how the managed to do it, because the Androids rebelled - unable to be controlled by petty humans. It was because of this that the creators decided to stop making them. But, from time to time someone comes across the blueprints and re-creates an android, adding personal touches to them be it impressive shielding capabilities or extreme firepower. Regardless of how, when or why they were created, they are potent warriors with amazing power.
 
 Average Height: Varies drastically based on creator's preferences.
@@ -15,13 +16,13 @@ Interesting Traits: Man-made machines, limitless options, mostly human-based (hu
 
 Example: Androids 16 through 20.
 
-Stat	Base
-Int	21
-Mnt	21
-Str	21
-Dex	21
-Stm	N/A
-Spd	21
+Stat Base
+Int 21
+Mnt 21
+Str 21
+Dex 21
+Stm N/A
+Spd 21
 Distribute 50 additional points, max of 17 in 1 stat.
 
 HP: 14 x STR + 25 x Level
@@ -33,8 +34,6 @@ Every Level-up, Androids gain 5 points to divide amongst their stats and an auto
 At Level 1, pick six powers.
 Every Level-up, gain two powers.
 Every even Level (2, 4, 6, etc), gain one additional Power.
-
-
 
 -=( Racial Features )=-
 
@@ -120,27 +119,27 @@ When taken, this Power increases an android's in-Battle Ki Regen by Levelx5.
 Once per Battle, the Android can project an exceptionally powerful forcefield; which can protect against virtually any Attack. As it's not an actual shield, this power works normally against SP, UP and US attacks. However, it can not be used in conjunction with any type of Blocking, Auras or Shielding and Resistance does not apply when using it. This Power divides the damage taken from an attack by 8 and functions against all Attacks in a Combo situation, combined. Against attacks which do not deal Damage, Defense Matrix stops them entirely as if it used Freeze. It Costs 300 Ki to use and can not be used in a grapple and it is not reflexive.
 Template: (Damage taken - Armor)/8
 
-
 -=( Android Upgrades )=-
-1) Afterburners
-An Android's propulsion system is modified by adding a new cooling system or some good old engines strapped onto their back. This lets the Android add the higher of their MNT or STR to their SPD, for purposes of determining how fast they move in MPH or LYPH. This doubles the Ki Cost of the Power used. If they're concerned about efficiency; the Android can choose not to use this Upgrade.
 
-2) Discern Power
-With this Upgrade, a few modifications are made to their Scouter and how the Android picks up Powerlevels; allowing them to memorize a person's aura. There is no limit to how many people they can now remember. You do not recognize any auras that you sensed before you had this Upgrade, until you sense them with it.
+1. Afterburners
+   An Android's propulsion system is modified by adding a new cooling system or some good old engines strapped onto their back. This lets the Android add the higher of their MNT or STR to their SPD, for purposes of determining how fast they move in MPH or LYPH. This doubles the Ki Cost of the Power used. If they're concerned about efficiency; the Android can choose not to use this Upgrade.
 
-3) Enhanced Espionage Unit
-With this Upgrade, an Android can fine-tune its generator to give off a special, detectable Ki signiture like the ones given off by actual people. You're able to utilize the 'Current Powerlevel' displayed on your sheet (Failing this, use ((Current HP + Current Ki) x ( STR + DEX + SPD )) / 12 ). While unconcious, you have a static Powerlvel equal to 1% of your normal value; representing your generator running 'idle'. This can be turned on or off at-will. In Combat, this can allow an Opponent to use Sense Ki's Ki-Lock on you.
+2. Discern Power
+   With this Upgrade, a few modifications are made to their Scouter and how the Android picks up Powerlevels; allowing them to memorize a person's aura. There is no limit to how many people they can now remember. You do not recognize any auras that you sensed before you had this Upgrade, until you sense them with it.
 
-4) Nano-Repair Systems
-With this Upgrade, an Android gains a colony of microscopic robots inside and on them which can repair damaged circuits, machinery and damage all over their body. If an Android suffers a Critical Hit and receives penalties from it (basically, if a limb is broken or worse) the nano machines can repair it quickly outside of Battle.
+3. Enhanced Espionage Unit
+   With this Upgrade, an Android can fine-tune its generator to give off a special, detectable Ki signiture like the ones given off by actual people. You're able to utilize the 'Current Powerlevel' displayed on your sheet (Failing this, use ((Current HP + Current Ki) x ( STR + DEX + SPD )) / 12 ). While unconcious, you have a static Powerlvel equal to 1% of your normal value; representing your generator running 'idle'. This can be turned on or off at-will. In Combat, this can allow an Opponent to use Sense Ki's Ki-Lock on you.
+
+4. Nano-Repair Systems
+   With this Upgrade, an Android gains a colony of microscopic robots inside and on them which can repair damaged circuits, machinery and damage all over their body. If an Android suffers a Critical Hit and receives penalties from it (basically, if a limb is broken or worse) the nano machines can repair it quickly outside of Battle.
 
 When out of Battle, the Android can heal any broken, shattered, or lost body part within three Real-Life Hours. Since all their energy is going in to these repairs, they won't be able to Regen Ki until the process is over. If an Android was KO'd from its Ki getting to 0; it must Regen to at least 1 Ki before Nano-Repair Systems take over. If the limb has been cut off; the Android needs to find the lost limb in order to reattach it. They can create a completely new one, but this takes an entire Neo week in place of the three real life hours.
 
-5) Nanowave Telepathy
-With this Upgrade an Android can send out special transmissions that will play a message in the database of another Android or Scouter that it has Scouted (previously or otherwise). This creates a special two-way frequency of communication, which doesn't require a hidden Android to reveal its location. People with a scouter that has the communicator addon may also be targeted and respond.
+5. Nanowave Telepathy
+   With this Upgrade an Android can send out special transmissions that will play a message in the database of another Android or Scouter that it has Scouted (previously or otherwise). This creates a special two-way frequency of communication, which doesn't require a hidden Android to reveal its location. People with a scouter that has the communicator addon may also be targeted and respond.
 
-6) Scouter Cloaking
-With this Upgrade, an Android has various small modifications made to itself which conceal the energy it gives off just from functioning, creating a means to mask the emissions specific kinds of Scouters look for. Each Level of this Upgrade blocks only a specific kind of Scouter; so taking Rank 4 would stop the Android from being detected by Rank 4 Scouters, but not the others. This Upgrade only needs to be taken once, as it Upgrades itself over time.
+6. Scouter Cloaking
+   With this Upgrade, an Android has various small modifications made to itself which conceal the energy it gives off just from functioning, creating a means to mask the emissions specific kinds of Scouters look for. Each Level of this Upgrade blocks only a specific kind of Scouter; so taking Rank 4 would stop the Android from being detected by Rank 4 Scouters, but not the others. This Upgrade only needs to be taken once, as it Upgrades itself over time.
 
 For every two Levels total you have, you may select a Scouter level that the Upgrade protects against and may be taken out of order. Once you reached level 12, you would have all of them, making you undetectable to all buyable Scouters and give -180% against other Androids and Ghetti detection attempts.
 
@@ -151,34 +150,32 @@ For every two Levels total you have, you may select a Scouter level that the Upg
 5 - Rank 5 scouters and -30% to Androids and Ghettis.
 6 - Rank 6 scouters and -30% to Androids and Ghettis.
 
-7) Solar Fiber
-When this Upgrade is taken, the Android replaces its hair or other exposed skin with special fibers that gather solar and other energy from the surrounding area to help alleviate some of the stress on the Android's generator. Because of this, the Android is able to recharge and repair themselves much quicker; HP, LP and Ki Regen is double the normal rate Out of Combat. This also halves the time it takes for Nano-Repair Systems to repair Critical Effects, if they have it.
+7. Solar Fiber
+   When this Upgrade is taken, the Android replaces its hair or other exposed skin with special fibers that gather solar and other energy from the surrounding area to help alleviate some of the stress on the Android's generator. Because of this, the Android is able to recharge and repair themselves much quicker; HP, LP and Ki Regen is double the normal rate Out of Combat. This also halves the time it takes for Nano-Repair Systems to repair Critical Effects, if they have it.
 
-8) Scouter Jamming
-Requires four levels or more of the Scouter Cloaking Upgrade.
-This Upgrade transmits a special frequency that can scramble any Scouter or scanning device within a mile of the Android producing it. Any scouter or Scanning Device in this area will not function and nothing inside the radius can be Scouted or Scanned. This Upgrade can be turned on and off at will and effects even the Android's own Scouter when on.
+8. Scouter Jamming
+   Requires four levels or more of the Scouter Cloaking Upgrade.
+   This Upgrade transmits a special frequency that can scramble any Scouter or scanning device within a mile of the Android producing it. Any scouter or Scanning Device in this area will not function and nothing inside the radius can be Scouted or Scanned. This Upgrade can be turned on and off at will and effects even the Android's own Scouter when on.
 
-9) Scouter Upgrades
-An Android's built-in Scouters are far from perfect, but on the other hand that means there's plenty of room for improvement. This Upgrade improve the accuracy of the Android's scanning ability, to the point where they can actually assess various parameters of a fighter's abilities. This Upgrade only needs to be taken once, as it Upgrades itself over time; gaining one Rank for every two total Levels the Android has.
+9. Scouter Upgrades
+   An Android's built-in Scouters are far from perfect, but on the other hand that means there's plenty of room for improvement. This Upgrade improve the accuracy of the Android's scanning ability, to the point where they can actually assess various parameters of a fighter's abilities. This Upgrade only needs to be taken once, as it Upgrades itself over time; gaining one Rank for every two total Levels the Android has.
 
 Each Rank of this Upgrade, your Scouter gains +20% success rate. For each Rank, you may select one STAT other than INT. You can Scan a target within sight distance; functioning as a 'Sense' roll, you can learn their exact STAT values that you can scan for. In combat; this costs an Action.
 
+10. Accelerated Nano-Repair
+    This Upgrade requires the Android to have 'Nano-Repair Systems' before it can be taken.
+    Through the use of this Upgrade, an Android can drastically accelerate the speed at which their Nano-Repair Systems work, but not done very efficiently. This gives them Regen of Levelx5 HP at the cost of reducing their Ki Regen by Levelx5. This Upgrade can be turned on or off Pre-round or by spending an Action to do so.
 
+11. Suppression Coils
+    While most Androids strive to improve themselves, some merely wish to be more like those around them. This Upgrade provides Androids with the ability to scale their performance down, if necessary and saves them energy as a nice bonus. This functions similarly to the 'Suppress powerlevel' Power; the Android reduces their Strike and Dodge by -1, their Damage by 10% and reducing their Ki Costs on everything by 5%, per penalty to a maximum of -1 per two Levels. When paired with the 'Enhanced Espionage Unit' Upgrade, this causes your 'Powerlevel' to also drop by 10% for each -1 penalty. The maximum penalty you may impose upon yourself is -10.
 
-10) Accelerated Nano-Repair
-This Upgrade requires the Android to have 'Nano-Repair Systems' before it can be taken.
-Through the use of this Upgrade, an Android can drastically accelerate the speed at which their Nano-Repair Systems work, but not done very efficiently. This gives them Regen of Levelx5 HP at the cost of reducing their Ki Regen by Levelx5. This Upgrade can be turned on or off Pre-round or by spending an Action to do so.
+12. Tactical Analysis Programming
+    This Upgrade requires the Android to have Rank 3 or higher 'Scouter Upgrade' before it can be taken.
+    Once per Round, you can spend an Action to Scan your opponent; revealing their current HP, Ki or END. This Upgrade can be taken up to three times; each time it's taken, it lets you learn another aspect of the Upgrade. When you have multiple Upgrades, you discern all of the selected attributes together.
 
-11) Suppression Coils
-While most Androids strive to improve themselves, some merely wish to be more like those around them. This Upgrade provides Androids with the ability to scale their performance down, if necessary and saves them energy as a nice bonus. This functions similarly to the 'Suppress powerlevel' Power; the Android reduces their Strike and Dodge by -1, their Damage by 10% and reducing their Ki Costs on everything by 5%, per penalty to a maximum of -1 per two Levels. When paired with the 'Enhanced Espionage Unit' Upgrade, this causes your 'Powerlevel' to also drop by 10% for each -1 penalty. The maximum penalty you may impose upon yourself is -10.
+13. Multi-Lock Systems
+    This Upgrade requires the Android to have 'Advanced Targeting Computer' before it can be taken.
+    When you use your 'Advanced Targeting Computer' to lock on in a fight, you may lock-on to as many combatants as you choose.
 
-12) Tactical Analysis Programming
-This Upgrade requires the Android to have Rank 3 or higher 'Scouter Upgrade' before it can be taken.
-Once per Round, you can spend an Action to Scan your opponent; revealing their current HP, Ki or END. This Upgrade can be taken up to three times; each time it's taken, it lets you learn another aspect of the Upgrade. When you have multiple Upgrades, you discern all of the selected attributes together.
-
-13) Multi-Lock Systems
-This Upgrade requires the Android to have 'Advanced Targeting Computer' before it can be taken.
-When you use your 'Advanced Targeting Computer' to lock on in a fight, you may lock-on to as many combatants as you choose.
-
-14) Hard Light Weaponry
-This upgrade allows the Android to produce super-high-tech laser weaponry; now able to acquire the 'Ki Shaping' or 'Psionic Entemperment' Powers; ignoring their usual limitations on Androids against taking these Powers. It costs only 5 Ki per Level each swing to use, and the Android gains +5 x Level Misc Mod Damage when attacking.
+14. Hard Light Weaponry
+    This upgrade allows the Android to produce super-high-tech laser weaponry; now able to acquire the 'Ki Shaping' or 'Psionic Entemperment' Powers; ignoring their usual limitations on Androids against taking these Powers. It costs only 5 Ki per Level each swing to use, and the Android gains +5 x Level Misc Mod Damage when attacking.

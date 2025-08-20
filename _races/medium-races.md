@@ -9,6 +9,7 @@ toc:
 ---
 
 ## Dodorian
+
 Dodorians are large, round, humanoid warriors that have a significant amount of dense fat covering their bodies along with the skeletal and muscular structure needed to support it. They have hairless, thick, pink or red skin. In places where hair would be on a human, Dodorians have sharp spikes growing from their skin instead. They are not known for their intelligence, but are not known for their stupidity either.
 
 Originally from the planet Blue Star, Dodorians are primarily seen serving the Icer race in a military role, such as shock troops or guards, for their entire lives past puberty. Though considered a slave race to the Icers, Dodorians enjoy a "favored" status and are treated more as servants than slaves during the lull between wars. This puts them in the unique place of being hated by those lower in the Blue Star's social structure, and alternately hated or liked by those higher. Most Dodorians develop a cynical, pessimistic personality from this dichotomy, some die from it.
@@ -21,13 +22,13 @@ Interesting Traits: Dodorian skulls are three times denser than a human's skull,
 
 Example: Dodoria.
 
-Stat	Base
-Int	12
-Mnt	17
-Str	25
-Dex	17
-Stm	25
-Spd	17
+Stat Base
+Int 12
+Mnt 17
+Str 25
+Dex 17
+Stm 25
+Spd 17
 Distribute 45 additional points, max of 15 in 1 stat
 
 HP: 16 x STM + 30 x Level
@@ -42,7 +43,6 @@ Every Level-up, Dodorians gain 5 points to divide amongst their stats and an aut
 
 At Level 1, pick ten powers.
 Every Level-up, gain two powers.
-
 
 -=( Racial Features )=-
 

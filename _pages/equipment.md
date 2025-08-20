@@ -5,6 +5,7 @@ permalink: /equipment/
 nav: true
 nav_order: 7
 ---
+
 The Short: Every character starts with 500 credits to make any purchases they want. Characters gain an additional 100 credits per day, automatically. Fighting also grants more credits.
 
 Items may be sold back for half their original price if they are undamaged. Damaged or destroyed items cannot be sold back. Items that have an improved version of the same item - such as Weighted Clothes 1, Dragon Radars and Rejuvenators can be upgraded to the next version by paying the difference cost.
@@ -32,19 +33,19 @@ All weapons, except the small weapon, may be used with sword powers. Weapons are
 
 Switching from sword or unarmed or one sword to another costs you no actions, because you're so quick with them!
 
-1) Light Weapon - 200 credits 1d10 damage per level, +3 to strike, gives a +4 bonus, instead of +3, when used with the sword power "Parrying Strike". Example Weapon: Bo Staff
+1. Light Weapon - 200 credits 1d10 damage per level, +3 to strike, gives a +4 bonus, instead of +3, when used with the sword power "Parrying Strike". Example Weapon: Bo Staff
 
-2) Medium Weapon - 240 credits 1d10 damage per level, SP, +2 to strike. Example Weapon: Long Sword
+2. Medium Weapon - 240 credits 1d10 damage per level, SP, +2 to strike. Example Weapon: Long Sword
 
-3) Heavy Weapon - 280 credits 3d10 damage per level, AP, +30% base damage on Basic attacks Example Weapon: Bastard Sword Template: {(Sword Damage + Ki Enhance + STR Mod)x1.3+Misc+Bulk}
+3. Heavy Weapon - 280 credits 3d10 damage per level, AP, +30% base damage on Basic attacks Example Weapon: Bastard Sword Template: {(Sword Damage + Ki Enhance + STR Mod)x1.3+Misc+Bulk}
 
-4) Giant Weapon - 300 credits 2d10 damage per level, AP/SP, -3 Strike. Example Weapon: Great Axe
+4. Giant Weapon - 300 credits 2d10 damage per level, AP/SP, -3 Strike. Example Weapon: Great Axe
 
-5) Sharp Weapon - 400 credits 3d10 damage per level, SP Example Weapon: Katana
+5. Sharp Weapon - 400 credits 3d10 damage per level, SP Example Weapon: Katana
 
-6) Balanced Weapon - 350 2d10 damage per level, AP, +2 Strike, -1 END Cost on all attacks (min 1). Example Weapon: Short Sword
+6. Balanced Weapon - 350 2d10 damage per level, AP, +2 Strike, -1 END Cost on all attacks (min 1). Example Weapon: Short Sword
 
-7) Small Weapon - 320 credits 1d10 damage, AP. This weapon can be used in grapples! It cannot be used with any sword powers except ki enhance. Ki enhance can be activated on this weapon at any time insted of being limited to preround, when it is being used to only enhance the blade and not for its ki attack. In place of the normal ki enhance damage bonus, it insted gains 1d10 damage per five ki spent, to a max of five ki per user's level. The Sword Power ki enhance must be obtained before this option can be used. Once it is used it gains the bonus to damage for the rest of the round.
+7. Small Weapon - 320 credits 1d10 damage, AP. This weapon can be used in grapples! It cannot be used with any sword powers except ki enhance. Ki enhance can be activated on this weapon at any time insted of being limited to preround, when it is being used to only enhance the blade and not for its ki attack. In place of the normal ki enhance damage bonus, it insted gains 1d10 damage per five ki spent, to a max of five ki per user's level. The Sword Power ki enhance must be obtained before this option can be used. Once it is used it gains the bonus to damage for the rest of the round.
 
 Daggers do not gain the benefit of level scaling damage, they are always 1d10 damage unless you ki enhance them. Ki-Enhancement Powers "Bulk" and its upgraded forms may be used with it. Example Weapon: Dagger
 
@@ -57,17 +58,17 @@ Scouters are used to detect the ki signatures of other warriors. Scouters may be
 
 If you are wearing a scouter and it breaks, it deals you no actual HP damage, but that doesn't mean it didn't hurt.
 
-1) Level 1 - 50 credits 70% chance of success, breaks if it reads a PL of 30,000 or more.
+1. Level 1 - 50 credits 70% chance of success, breaks if it reads a PL of 30,000 or more.
 
-2) Level 2 - 100 credits 80% chance of success, breaks if it reads a PL of 60,000 or more.
+2. Level 2 - 100 credits 80% chance of success, breaks if it reads a PL of 60,000 or more.
 
-3) Level 3 - 175 credits 90% chance of success, breaks if it reads a PL of 120,000 or more.
+3. Level 3 - 175 credits 90% chance of success, breaks if it reads a PL of 120,000 or more.
 
-4) Level 4 - 400 credits 100% chance of success, breaks if it reads a PL of 240,000 or more.
+4. Level 4 - 400 credits 100% chance of success, breaks if it reads a PL of 240,000 or more.
 
-5) Level 5 - 750 credits 125% chance of success, breaks if it reads a PL of 480,000 or more.
+5. Level 5 - 750 credits 125% chance of success, breaks if it reads a PL of 480,000 or more.
 
-6) Level 6 - 1,000 credits 200% chance of success, never breaks. This scouter allows you to save a specific aura it scans into data, so that it can recognize it at a later date (even if the power level is at a different number than before). It may store up to four auras, and no more. It cannot store the auras of androids to memory in this fashion, because they lack auras.
+6. Level 6 - 1,000 credits 200% chance of success, never breaks. This scouter allows you to save a specific aura it scans into data, so that it can recognize it at a later date (even if the power level is at a different number than before). It may store up to four auras, and no more. It cannot store the auras of androids to memory in this fashion, because they lack auras.
 
 Scouter addons:
 
@@ -112,11 +113,11 @@ The Radars themselves are far from perfect, however and there's a chance when us
 
 Each type of Radar may only be used once per every real-life day. Because of the limitations of OpenRPG/Discord, if a player rolls in one room and wishes to check another room for dragonballs, he may have a new roll for the new room.
 
-1) Cheap Dragon Radar - 1,000 credits 15% chance of success.
+1. Cheap Dragon Radar - 1,000 credits 15% chance of success.
 
-2) Dragon Radar - 1,750 credits 30% chance of success.
+2. Dragon Radar - 1,750 credits 30% chance of success.
 
-3) Improved Dragon Radar - 3,000 credits 50% chance of success.
+3. Improved Dragon Radar - 3,000 credits 50% chance of success.
 
 Armor
 There are four different types of armor, and each type of armor comes in four Ranks. Select the Rank you want, spend that amount of credits, and you gain the benefits appropriate to that rank. The costs and benefits are seperated by a slash. So a Rank 3 Namekian Armor costs 1200 Credits, has 900 Armor, and grants Levelx3 Ki Regeneration. Each type of armor has a different "Special" Benefit. When you wear Armor, this special benefit applies until the end of the combat, even if the armor loses all of its HP.
@@ -150,13 +151,13 @@ If you wish to upgrade your ship, you may pay the difference in cost to upgrade,
 
 For obvious reasons, none of the listed ships below are capable of having a Dwelling inside them or a Guild Haven and vise versa.
 
-1) Pod Ship - 200 credits Podships are little more than spheres used to send a single person from point A to point B, with barely any space for storage. Podships are very basic and have no communications equipment or anything similarily advanced. Navigation in podships is limited to telling the computer to go to a point, and it will do so automatically as best it can. Podships have 50 resistance, 250 HP and travel 0.5 light years per hour. A podship fits only a single person.
+1. Pod Ship - 200 credits Podships are little more than spheres used to send a single person from point A to point B, with barely any space for storage. Podships are very basic and have no communications equipment or anything similarily advanced. Navigation in podships is limited to telling the computer to go to a point, and it will do so automatically as best it can. Podships have 50 resistance, 250 HP and travel 0.5 light years per hour. A podship fits only a single person.
 
-2) Capsule Corps Ship - 500 Credits Capsule Corps Ships are larger than podships, and much more spacious. Despite this, CapCorp ships act as a podship in most other ways, they have equal technology and navigation abilities. CapCorp Ships are, however, well-known for the ability to be micro-sized into a pea-sized tablet which easily fits in a pocket, which can later be inflated back to full size again with the push of a button. For an extra 100 credits, it can have some space made and fit with a Rejuvenator. Capsule Corps ships have 75 resistance, 500 HP and travel 1 light year per hour. CapCorp ships can fit up to two people.
+2. Capsule Corps Ship - 500 Credits Capsule Corps Ships are larger than podships, and much more spacious. Despite this, CapCorp ships act as a podship in most other ways, they have equal technology and navigation abilities. CapCorp Ships are, however, well-known for the ability to be micro-sized into a pea-sized tablet which easily fits in a pocket, which can later be inflated back to full size again with the push of a button. For an extra 100 credits, it can have some space made and fit with a Rejuvenator. Capsule Corps ships have 75 resistance, 500 HP and travel 1 light year per hour. CapCorp ships can fit up to two people.
 
-3) Light Star Cruiser - 1500 Credits Light Star Cruisers are the ship types that are used for 'light' travel, whether military scouting trips or a rich boy's joy ride. These vary in size and shape but are significantly larger can CapCorp ships, and much more advanced. This ship type has working communications equipment, sensors to detect other ships and the like. It can even be manually pilotted, but the average individual will just use the autopilot. Light Star Cruisers have 150 resistance, 1000 HP and travel 3 light years per hour. These ships can fit up to four people and has enough room to hold a rejuvenator, which must be acquired seperately. Due to its speed and firepower, it can easily destroy ships of smaller classes than itself.
+3. Light Star Cruiser - 1500 Credits Light Star Cruisers are the ship types that are used for 'light' travel, whether military scouting trips or a rich boy's joy ride. These vary in size and shape but are significantly larger can CapCorp ships, and much more advanced. This ship type has working communications equipment, sensors to detect other ships and the like. It can even be manually pilotted, but the average individual will just use the autopilot. Light Star Cruisers have 150 resistance, 1000 HP and travel 3 light years per hour. These ships can fit up to four people and has enough room to hold a rejuvenator, which must be acquired seperately. Due to its speed and firepower, it can easily destroy ships of smaller classes than itself.
 
-4) Heavy Star Cruiser - 3500 Credits Heavy Star Cruisers are the largest type of ships that can be considered 'personal' ships and are sometimes restricted from sale. Most military fighters are just barely larger than the average ship of this type. These ships tend to sport slightly more advanced equipment than their lighter cousins, having working communications, sensors, better navigation abilities and the like. These ships can also be manually pilotted, but the ship's computer probably does it better than you ever could. Heavy Star Cruisers have 225 resistance, 1500 HP and travel 4 light years per hour. These ships can fit up to eight people and has enough room to hold two rejuvenators, which must be acquired seperately. Due to its speed and heavy firepower, it can easily destroy ships of smaller classes than itself. 
+4. Heavy Star Cruiser - 3500 Credits Heavy Star Cruisers are the largest type of ships that can be considered 'personal' ships and are sometimes restricted from sale. Most military fighters are just barely larger than the average ship of this type. These ships tend to sport slightly more advanced equipment than their lighter cousins, having working communications, sensors, better navigation abilities and the like. These ships can also be manually pilotted, but the ship's computer probably does it better than you ever could. Heavy Star Cruisers have 225 resistance, 1500 HP and travel 4 light years per hour. These ships can fit up to eight people and has enough room to hold two rejuvenators, which must be acquired seperately. Due to its speed and heavy firepower, it can easily destroy ships of smaller classes than itself.
 
 Weighted Clothing
 Weighted clothing costs 200 credits to purchase.
@@ -165,7 +166,6 @@ Wearing weighted clothing during a fight gives you -2 to all strikes and dodges.
 To wear weighted clothing you must have 30 STR.
 At level 10 you may upgrade to weighted clothing level 2 for 800 credits, this gives you -4 to all strikes and dodges while worn, when dropped it gives you +4 bonus to all strikes and dodges for each round previously worn. You also gain an additional 100 EXP if you wear it for the whole fight.
 To wear weighted clothing level 2 you must have 100 str.
-
 
 Dropping Weighted Clothing: When you remove your weighted clothing you gain +2 to all strikes and dodges based on how many previous rounds you wore the weighted clothing for. Example: Sanchez wears his weighted clothing for the first two round and is getting his ass kicked, so he decides to remove it in round 3, gaining +2 to all strikes and dodges in rounds 3 and 4. If he was level 10 with level 2 weighted clothing he would gain -4 and +4 in the previous example. Weighted clothing must be declared pre-round in your initiative. You must spend an action to drop your weighted clothing, this can not be done pre-round.
 
@@ -214,8 +214,8 @@ Communications Equipment - 15 credits While normal houses might come with a tele
 
 Scramble Effects - 50 credits per level This add-on, whether through rare types of insulation or advanced technology, lowers the chance to detect someone in their dwelling, either with scouters or the Sense Ki power, by 5%. This also causes anyone within a dwelling with this addon, the same penalty to sense or scout those outside of it. This affects everyone inside the dwelling and not just the owner. This does not alter the chances of success for Dragon Radars. This can be purchased multiple times, to a maximum of once per every experience level of the owner, each time lowering the chance of detection by an additional 5%.
 
-Increased Healing: HP - 500 credits Whether through proper medical stores, a pet medical bot, a really nice natural hot spring that happens to bubble up in your dwelling, or anything else the player wishes, this increases the owner's healing rate inside the dwelling by +5% of his maximum HP per Neo hour. This may only be bought once. In rare circumstances, this can even be used in combat, which grants the owner level*2 HP per action he's inside the building.
+Increased Healing: HP - 500 credits Whether through proper medical stores, a pet medical bot, a really nice natural hot spring that happens to bubble up in your dwelling, or anything else the player wishes, this increases the owner's healing rate inside the dwelling by +5% of his maximum HP per Neo hour. This may only be bought once. In rare circumstances, this can even be used in combat, which grants the owner level\*2 HP per action he's inside the building.
 
 Increased Healing: Ki - 500 credits Whether through some really inspiring feng shui, a personal meditation chamber, or anything else the player wishes, this increases the owner's healing rate inside the dwelling by +5% of his maximum Ki per Neo hour. This may only be bought once. In rare circumstances, this can even be used in combat, which grants the owner levelx2 Ki per action he's inside the building.
 
-Safe - 50 credits Normally, credits cannot be left sitting on the ground without them dispersing into whatever magic causes them to have their value. Once this is purchased, a character may choose to store 5% of their total credits in their dwelling instead of carrying them around with him. This may be purchased multiple times, each time increasing the storage capacity of the safe by another 5%, up to a maximum of 80% credit storage. Credits not stored in safes must be carried by the character. If a character is robbed of all his credits and he has a safe at his Dwelling, he cannot be robbed again until he gets a chance to fully recover (from the fight, if there was one). He must also take enough credits out of his safe so that it only contains its maximum % of his wealth. If someone destroys a Dwelling with the Safe addon, the Safe is left intact and cannot be stolen or stolen from. Because of magic.  Speaking of Magic, I wish we had a space boat.
+Safe - 50 credits Normally, credits cannot be left sitting on the ground without them dispersing into whatever magic causes them to have their value. Once this is purchased, a character may choose to store 5% of their total credits in their dwelling instead of carrying them around with him. This may be purchased multiple times, each time increasing the storage capacity of the safe by another 5%, up to a maximum of 80% credit storage. Credits not stored in safes must be carried by the character. If a character is robbed of all his credits and he has a safe at his Dwelling, he cannot be robbed again until he gets a chance to fully recover (from the fight, if there was one). He must also take enough credits out of his safe so that it only contains its maximum % of his wealth. If someone destroys a Dwelling with the Safe addon, the Safe is left intact and cannot be stolen or stolen from. Because of magic. Speaking of Magic, I wish we had a space boat.

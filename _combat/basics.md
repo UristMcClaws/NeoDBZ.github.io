@@ -6,10 +6,9 @@ nav: false
 ---
 
 1. Initiative
-When two people square off, there's a clash of timing to be decided
+   When two people square off, there's a clash of timing to be decided
 
 The first thing you do when combat begins and start a 'Round', is roll your Initiative to determine the order of your actions and have your APR value handy; both will be on your sheet. Your initiative roller may vary by Uniques or other modifiers; but the basics remain the same:
-
 
 Init: 1d20+(Int/5+Spd/25)
 
@@ -32,18 +31,15 @@ Your Speed stat is listed to break ties on the event of rolling the same value. 
 Remember, your APR stats are a minimum of 1 per stat; if your INT is 20, 20/30 = 1. Your minimum final APR is also 3; so Uniques or Superforms cannot reduce them below this.
 
 2. Actions
-Actions are defined seperately of APR; an Action is something that consumes your APR in the Round's order. 'Immediate' effects do not use an Action, applying when circumstance dictates. When taking your Action, it's important that you Roleplay out what you're doing descriptively, followed by a brief Out Of Character explanation of what you're doing. For example:
-
+   Actions are defined seperately of APR; an Action is something that consumes your APR in the Round's order. 'Immediate' effects do not use an Action, applying when circumstance dictates. When taking your Action, it's important that you Roleplay out what you're doing descriptively, followed by a brief Out Of Character explanation of what you're doing. For example:
 
 Arvok smirks, his aura flaring slightly as he does so. Seconds pass, and his aura begins to grow massively, collecting ki at an alarming rate! When his aura dims, his powerlevel has grown substantially. (Megacharge)
 
 In the above, Arvok roleplayed his action and declared what power he was doing. You must declare what you're using.
 
-
 Everyone has access to 'Basic Attacks' and you have Powers you've hopefully unlocked that also use Actions to perform.
 
 All Actions cost 1 point of END, unless they state they do not cost END. Anything costing more will say as such.
-
 
 Attacking your opponent is as simple as roleplay, declaration and waiting for the Defender, who in response to being Attacked; chooses a defense, submits a roleplay and declares what defense they've selected. The most common methods being Blocking (let them hit you, but reduce the impact depending on which Block Power you use) and Dodging (attempt to evade damage completely). Defenses are not considered Actions and thus do not natively have an END cost, unless their Power specifically sets one: Parrying Powers (functionally similar to Dodging, but redirecting their attack away with your hands or a weapon) have an associated END cost for example and cannot be used before its power is bought.
 
@@ -57,8 +53,7 @@ Some Powers/Uniques/Features allow rerolls or other abilities after rolls are re
 Table of Contents
 
 3. Damage & Reduction
-We understand how to determine our combat order, taking Actions and Defenses. Now to actually get to beating them to a pulp. Each Attack / Power will have a Damage 'Template' associated with it. Broadly, it will follow this format
-
+   We understand how to determine our combat order, taking Actions and Defenses. Now to actually get to beating them to a pulp. Each Attack / Power will have a Damage 'Template' associated with it. Broadly, it will follow this format
 
 Template: ( Dice per Level + Statmod/5 + Misc Mods ) x Multipliers + Bulk or PKU
 
@@ -66,11 +61,9 @@ But variety is the spice of life. For example, the Unique Final Ki Attacker's mu
 
 Goku rolled and ended up dealing 384 points of AP/SP damage to Vegeta with his Power Punch, whom failed a parry. Vegeta is level 6, so he decides to use the Power Supreme Aura to reduce the damage by 150; the maximium the Power allows for his level. He then shows his damage calculation as:
 
-
 384-150 = 234
 
 Damage Reduction will almost always follow the same format;
-
 
 ( Damage - Auras/Shields ) Divided by block - Resistance.
 
@@ -78,21 +71,14 @@ Had Vegeta any Resistance or if he'd Blocked, he would've taken less damage or s
 
 Once Damage Reduction is resolved, both Attacker and Defender pay any costs they owe, mark the damage has HP lost and then it moves onto the next Action in the Round.
 
-
 Damage Reduction is always shown publically for transparency and to represent your opponent learning how to adapt in the fight. Do not be offended if your Opponent is unsure what you've used or want a breakdown step-by-step.
-
 
 This exchange came out in Goku's favour; both in End paid (1 vs 2 for Parry), Ki paid (30 vs 180 for ACT + Aura) and HP; which means if they kept up this kind of exchange, Goku could win.
 
 Now you know the basics of combat; Rolling Initiative, working out Combat order, Basic Attacks, Actions, Defenses, Damage and Reduction. You can effectively start playing right away. However, there are more advanced Powers, Abilities, Status Effects and more if you want to compete to be the best.
 
-
-
-
-
-
 4. Changing up Attacks
-There's four ways of attacking someone:
+   There's four ways of attacking someone:
 
 Hand to Hand (H2H) Attacks, Sword or Weapon Attacks, Ki Attack and Telekinetic (TK) Attacks. In every case, every attack can be placed into one of these categories.
 
@@ -100,11 +86,9 @@ H2H Attacks are the simplest to do and every fighter in NeoDBZ knows how to figh
 
 Sword or Weapon Attacks are very similar to H2H Attacks, with their own complications. Anyone can pick up a toothpick -- erm, Sword, and swing it. Everyone knows how to make a 'Basic Sword Attack'. More advanced Sword techniques are bought from the Sword category. All Sword Attacks use your DEX/5 to strike and use the better of your STR/10 or SPD/5 for your Damage mod. Weapons will have base dice listed under their Equipment information.
 
-
 For Example: (2d10 + 1d10 per Level + STR/10 ) + Misc Mods + Bulk. 1 End.
 
 Ki Attacks can be more complex; some fighters never learn how to gather their energy to the degree to turn it into a blast of destructive energy. In order to perform Ki attacks; you must get the appropriate power from the Offensive Ki tree - there is no Ki Attack that everyone knows intuitively. Ki attacks use your MNT/5 as the modifier to Strike and to Damage. Ki Attack dice vary depending on how much Ki is spent on them, which scales with Level.
-
 
 For Example: (5d8 per Level + MNT/5 ) + Misc mods . Basic Discharge; 25 ki cost per Level.
 
@@ -117,7 +101,7 @@ Addons have been mentioned before and it's anything that might modify your Strik
 Table of Contents
 
 5. Changing up Defense
-When you're attacked, you almost always have the chance to defend yourself.
+   When you're attacked, you almost always have the chance to defend yourself.
 
 Dodging: A Defense anyone can do; it costs nothing to do and is a simple attempt to get out of the way of an attack. You roll 1d20 + SPD/5 + Misc Dodge Modifiers in response to their Attack. If the result is the same or higher than theirs, you've successfully dodged! If your result is lower, they hit you with full force.
 
@@ -128,10 +112,10 @@ Parrying is another option you can do and like Blocking, requires you to have sp
 Advanced forms of Defenses often have costs associated with their Power and will state as such.
 
 6. Advanced Damage Reduction
-The order in which you reduce damage is always as follows:
+   The order in which you reduce damage is always as follows:
 
 1) Auras / Shields
-Various Auras and Shields will become useable as you unlock these Powers. Auras function to reduce Damage, by paying Ki. Shields meanwhile are often a layer of conditional HP, some of which may recover during the fight.
+   Various Auras and Shields will become useable as you unlock these Powers. Auras function to reduce Damage, by paying Ki. Shields meanwhile are often a layer of conditional HP, some of which may recover during the fight.
 
 Auras and Shields cannot be stacked unless the Power specifically states otherwise. If Defending against a Combo Power (multiple, different attacks in the same APR), you can only use one Aura or Shield per Attack in the Combo; which may mean some Attacks simply cannot be reduced in this way.
 
@@ -141,20 +125,17 @@ Auras can be scaled to your desired effect, up to its maximum. While Shields mus
 
 Shields and Auras cannot be used while Unconcious, unless the Power specifically states otherwise. Finally, Auras and Shields always apply before Block or other forms of Reduction.
 
-
 Template: ( Damage - Shield or Aura )
 
-
-2) Blocking
-A power from the Defensive power tree, Blocking allows you to brace for impact of an Attack. You're automatically hit, a Critical Hit d20 is rolled, but you're able to reduce the Damage significantly by preparing for it. Blocking divides the damage in half or more.
+2. Blocking
+   A power from the Defensive power tree, Blocking allows you to brace for impact of an Attack. You're automatically hit, a Critical Hit d20 is rolled, but you're able to reduce the Damage significantly by preparing for it. Blocking divides the damage in half or more.
 
 You must declare you are Blocking and with which specific Block Bower you're using.
 
-
 Template: ( Damage Dealt /2 )
 
-3) Armor & Natural Armor (Nat Armour)
-If you're wearing Armor or perhaps grew it yourself as Natural Armor; both are functionally the same and mentioning the one is generally also talking about the other. Armor is an additional buffer for your Hitpoints, that is subtracted from the damage immediately after the Aura / Shielding process. Applied before blocking. Certain things can reduce the effectiveness of Armor or bypass it entirely, so be sure to read anything listed beside the Damage dealt.
+3. Armor & Natural Armor (Nat Armour)
+   If you're wearing Armor or perhaps grew it yourself as Natural Armor; both are functionally the same and mentioning the one is generally also talking about the other. Armor is an additional buffer for your Hitpoints, that is subtracted from the damage immediately after the Aura / Shielding process. Applied before blocking. Certain things can reduce the effectiveness of Armor or bypass it entirely, so be sure to read anything listed beside the Damage dealt.
 
 If you have a form of Natural Armor, you can not wear Armor on top of it (and no, you can't wear multiple layers of wearable Armors either). If you gain Natural Armor while wearing Armor; your Armor is flexed or forced off of you without further damage.
 
@@ -162,17 +143,14 @@ Armors are often bought or made and sometimes have additional effects. Most Worn
 
 Armors must be donned and declared in your first Initiative Pre-round in order to be used in combat and may not be added during an ongoing battle; though some effects may add Nat Armor. Nat Armor must always be applied, though doesn't need Declaring.
 
-
 Template: (Damage Dealt - Aura - Armor)
 
 Blocking Template: (Damage Dealt - Aura - Armor) / 2
 
-
-4) Resistance
-Resistance is the last form of Damage Reduction. Resistance ensures that whatever force gets past your Auras, Blocking and Armor, it then doesn't do you much damage. Hopefully. The most common form of Resistance is given to you by your Racial Resistance found in your Race's information, but there are certain uniques and powers which grant some fighters additional Resistance as well.
+4. Resistance
+   Resistance is the last form of Damage Reduction. Resistance ensures that whatever force gets past your Auras, Blocking and Armor, it then doesn't do you much damage. Hopefully. The most common form of Resistance is given to you by your Racial Resistance found in your Race's information, but there are certain uniques and powers which grant some fighters additional Resistance as well.
 
 Resistance acts much like Armor, in that it reduces an attack's damage before it's dealt to your Hitpoints, except that it doesn't diminish. Things which bypass or reduce any Armor you're wearing also bypass Resistance, unless stated otherwise.
-
 
 Table of Contents
 
@@ -187,27 +165,25 @@ Normally, all these steps are put together as a single Reduction calculation in 
 (Damage Dealt - Shield or Aura - Armor ) /2 - Resistance
 
 7. Health and Energy
-Everyone has Hitpoints (HP), Lifepoints (LP), Ki and Endurance (END). The exception to this is Androids, which have no END as detailled in their racial information. While there is no direct penalty to losing Ki, HP or END; common sense would dictate that if you're at half HP, then your character looks beaten up. Same with being at half END - you might be sweating or breathing heavily from fatigue. Ki is less noticeable in terms of how much you have, versus how much you're missing; though it may be sensed in your Powerlevel lowering or a spiritual tiredness, in place of physical exertion.
+   Everyone has Hitpoints (HP), Lifepoints (LP), Ki and Endurance (END). The exception to this is Androids, which have no END as detailled in their racial information. While there is no direct penalty to losing Ki, HP or END; common sense would dictate that if you're at half HP, then your character looks beaten up. Same with being at half END - you might be sweating or breathing heavily from fatigue. Ki is less noticeable in terms of how much you have, versus how much you're missing; though it may be sensed in your Powerlevel lowering or a spiritual tiredness, in place of physical exertion.
 
 You do not Gain the benefits of Out of Combat Recovery, while there is an ongoing fight in your scene. Even if you're not part of it.
 
-1) Hit Points (HP)
-These points represent how much damage you can take and should be considered superficial injuries such as bruises, minor cuts and other cool anime moments. None of it has a lasting impact on the body's performance. When you are reduced to 0 HP, you are conscious, but defenseless. Damage beyond this, accident or otherwise, goes to your Life Points. You recover 5% of your Maximum HP every Neo hour (7 IRL minutes) Out of Combat. Losing HP also reduces your Powerlevel.
+1. Hit Points (HP)
+   These points represent how much damage you can take and should be considered superficial injuries such as bruises, minor cuts and other cool anime moments. None of it has a lasting impact on the body's performance. When you are reduced to 0 HP, you are conscious, but defenseless. Damage beyond this, accident or otherwise, goes to your Life Points. You recover 5% of your Maximum HP every Neo hour (7 IRL minutes) Out of Combat. Losing HP also reduces your Powerlevel.
 
-2) Chi (Ki)
-These points represent your spiritual energy. How much you have and how well you can use it. You spend it to enhance the stength and speed of your Attacks, as well as to reduce the damage you take and more. You recover 5% of your Maximum Ki every Neo hour Out of Combat. Gaining or Losing KI; by way of Charging or Spending Ki, effects your Powerlevel.
+2. Chi (Ki)
+   These points represent your spiritual energy. How much you have and how well you can use it. You spend it to enhance the stength and speed of your Attacks, as well as to reduce the damage you take and more. You recover 5% of your Maximum Ki every Neo hour Out of Combat. Gaining or Losing KI; by way of Charging or Spending Ki, effects your Powerlevel.
 
-3) Lifepoints (LP)
-These points represent the natural resilience of your body to survive without any conscious aid from you in the face of actual, deeper tissue Damage. If you run out of Hitpoints, Damage then goes to your Lifepoints. Losing LP can be akin to internal bleeding, damaged organs or worse. If you lose all your LP, you are Dead. LP must be recovered to full, before you're no longer Defenseless, but at least HP recovery occurs concurrently. LP recovers slowly at a rate of Level x 2 every Neo Hour.
-
+3. Lifepoints (LP)
+   These points represent the natural resilience of your body to survive without any conscious aid from you in the face of actual, deeper tissue Damage. If you run out of Hitpoints, Damage then goes to your Lifepoints. Losing LP can be akin to internal bleeding, damaged organs or worse. If you lose all your LP, you are Dead. LP must be recovered to full, before you're no longer Defenseless, but at least HP recovery occurs concurrently. LP recovers slowly at a rate of Level x 2 every Neo Hour.
 
 Healing Powers will specify if it applies to LP, HP or both. If you're healed while in LP and the heal only applies to HP; you gain it as normal to HP.
 
 For example; if you were KO'd by an Attack that takes you into 100 LP's (-100 HP) and you were Level 5, you would take 70 Real-Life minutes to no longer be Defenseless.
 
-
-4) Sub-Lifepoints (Sub-LP)
-These points are a rare form of additional Lifepoints that represent a characters ability to survive even beyond what most consider death. While in Sub-LP, you give off no power Level or pulse, as if you were dead. Your body might be completely destroyed, down to its cells and cannot be targetted for additional Damage or a killing move while in this state. Even if someone does try; simply pretend to take the Damage or state you're Dead and remain at 1 Sub-LP. At least the first time they witness this Sub-LP without knowing better, anyway.
+4. Sub-Lifepoints (Sub-LP)
+   These points are a rare form of additional Lifepoints that represent a characters ability to survive even beyond what most consider death. While in Sub-LP, you give off no power Level or pulse, as if you were dead. Your body might be completely destroyed, down to its cells and cannot be targetted for additional Damage or a killing move while in this state. Even if someone does try; simply pretend to take the Damage or state you're Dead and remain at 1 Sub-LP. At least the first time they witness this Sub-LP without knowing better, anyway.
 
 Once you're back to 1 LP, you once more have a pulse and Powerlevel. You must recover all Sub-LP before you can begin recovering LP. HP does not recover while in Sub-LP.
 
@@ -217,15 +193,15 @@ If this Coup De Grace fails to deal enough damage to put you to 0 Sub-LP or belo
 
 If someone you killed came back to life; you'd be suspicious of their next "Death" too.
 
-5) Endurance (END)
-These points determine how physically 'fit' you are and just how long you can go on fighting. You pay 1 Endurance (minimum) for every Action you take, unless otherwise specified. Some Attacks might cost more and they will state as such in their descriptions. When you have 0 END, you have over-exerted yourself and you go Unconscious. If you were performing an Action or Defense that takes you into negative END; the action is aborted and fails (No-Defense, in the case of Defenses).
+5. Endurance (END)
+   These points determine how physically 'fit' you are and just how long you can go on fighting. You pay 1 Endurance (minimum) for every Action you take, unless otherwise specified. Some Attacks might cost more and they will state as such in their descriptions. When you have 0 END, you have over-exerted yourself and you go Unconscious. If you were performing an Action or Defense that takes you into negative END; the action is aborted and fails (No-Defense, in the case of Defenses).
 
 You regain 25% of your Maximum END every Neo hour.
 
 Table of Contents
 
-6) Regeneration (Regen)
-In combat, some individuals heal or recharge faster than others. It means you recover it's value in HP, LP, Ki or End (or whatever it is that you Regen) at the start of your Actions in a Round, before starting the Action. This happens even on Actions you're stunned or otherwise unable to act, unless the Power specifically states it prevents Regen.
+6. Regeneration (Regen)
+   In combat, some individuals heal or recharge faster than others. It means you recover it's value in HP, LP, Ki or End (or whatever it is that you Regen) at the start of your Actions in a Round, before starting the Action. This happens even on Actions you're stunned or otherwise unable to act, unless the Power specifically states it prevents Regen.
 
 If you Regen at an accelerated rate during Combat, you also recover just as quickly Out of Combat. Add the amount you Regen per action without multiplying by Level, to the % you recover per Neo Hour, to find your new % value.
 
@@ -235,8 +211,8 @@ If you recover LP faster than normal, then you add your per-Action LP Regen dire
 
 Sources of Regen stack.
 
-7) Defenseless & Unconcious (KO'd)
-So, your HP has hit 0 and you may or may not be in LP. You're now in a 'Defenseless' state. This means you're immediately removed from any Initiative and ignored in combat, to deal with more immediate threats if they're present (even if you're the sole target).
+7. Defenseless & Unconcious (KO'd)
+   So, your HP has hit 0 and you may or may not be in LP. You're now in a 'Defenseless' state. This means you're immediately removed from any Initiative and ignored in combat, to deal with more immediate threats if they're present (even if you're the sole target).
 
 While Defenseless; you cannot spend Ki, End, Block or Move. You can choose to be Concious in order to talk, but may not operate Communicators - maybe they're just out of reach or your arm hurts too much to press the button, or other technology unless someone does it for you.
 
@@ -248,20 +224,17 @@ Why can't you target someone KO'd while being attacked? Fights are fluid and fas
 
 Some Criticals or Powers might be capble of inflicting an Auto-KO, while some Criticals can inflict Death.
 
-
-8) Death (Dead)
-Once you've run out of LP, Sub-LP and tricks; unable to save yourself. You may declare Death or Dead. Yamcha'd. Ex-Parrot. Pushing up Daisies. Etc. Consider carefully before declaring Death, because a more experienced player may be able to point out a Damage Reduction, Power or correction that avoids being upset by your story ending by mere Accident or miscalculation.
+8. Death (Dead)
+   Once you've run out of LP, Sub-LP and tricks; unable to save yourself. You may declare Death or Dead. Yamcha'd. Ex-Parrot. Pushing up Daisies. Etc. Consider carefully before declaring Death, because a more experienced player may be able to point out a Damage Reduction, Power or correction that avoids being upset by your story ending by mere Accident or miscalculation.
 
 This is a PVP game; so it's important to take time to cool off if the loss of a character is upsetting. It's weird to say, but attachment is a real thing.
 
 In the event of Death; do not delete your sheet. In some circumstances, Death is not the end and jumping to conclusions as to what a GM has planned or if your character was beloved to be brought back, is another mistake in the heat of the moment.
 
-
 Passive shields, such as Solid Aura or forms of Resistance continue to function while Unconcious, which could save your life in the event of an accident. Invents that feign Death also exist, otherwise an opponent can tell you're in positive LP by your Powerlevel.
 
-
-9) Feigning Death
-Unfortunately, pretending to be Dead can be metagamed against; so you must be weary about telling people In-Character about Techniques or Features you have, if you want to live a long and happy life. Invents like Taisha's Charge can make you appear Dead and immune to further Damage, to anyone who doesn't know it anyway.
+9. Feigning Death
+   Unfortunately, pretending to be Dead can be metagamed against; so you must be weary about telling people In-Character about Techniques or Features you have, if you want to live a long and happy life. Invents like Taisha's Charge can make you appear Dead and immune to further Damage, to anyone who doesn't know it anyway.
 
 Since surpressing your Powerlevel can not go below 1; technically you can never 'pretend' to be Dead, if the person can sense you. And that might be a dick move to do to your friends. Sometimes it's just safer to surrender a fight before it gets so far.
 
@@ -272,24 +245,22 @@ Rolls of 1's in NeoDBZ are simply low rolls; unlike other games and do not autom
 
 Rolls of 20's, however, tend to have some special effect tied with them depending upon what kind of roll you were making as detailled below.
 
-1) Strike Rolls
-When you roll a 20 on a Strike roll, it automatically hits unless the Defender rolls a 20 on their Dodge or Parry and the result of the Defense is a higher result than the Attack. The Attack automatically becomes Armor Piercing and Shield Piercing and if it deals Damage after Damage Reduction; you've Critically Damaged your opponent and roll a 1d100 to see what effects occur, outlined in the Critical Hits section. Multi-Attacks can never inflict a Critical Hit; but may still be AP/SP. Finally, Sword Criticals apply their 1d100 prior to damage and may often become AP/UP.
+1. Strike Rolls
+   When you roll a 20 on a Strike roll, it automatically hits unless the Defender rolls a 20 on their Dodge or Parry and the result of the Defense is a higher result than the Attack. The Attack automatically becomes Armor Piercing and Shield Piercing and if it deals Damage after Damage Reduction; you've Critically Damaged your opponent and roll a 1d100 to see what effects occur, outlined in the Critical Hits section. Multi-Attacks can never inflict a Critical Hit; but may still be AP/SP. Finally, Sword Criticals apply their 1d100 prior to damage and may often become AP/UP.
 
-2) Dodge Rolls
-When you roll a 20 on a Dodge roll; the Attack is automatically Dodged unless the Attacker rolled a Natural 20 for his Strike and his modifiers beat yours. If you're not hit, you're allowed an Immediate counterattack without using an Action. This can be any Basic Attack and costs END / Ki as required. Addons can be utilized by paying costs as normal. A Grab cannot be a counter.
+2. Dodge Rolls
+   When you roll a 20 on a Dodge roll; the Attack is automatically Dodged unless the Attacker rolled a Natural 20 for his Strike and his modifiers beat yours. If you're not hit, you're allowed an Immediate counterattack without using an Action. This can be any Basic Attack and costs END / Ki as required. Addons can be utilized by paying costs as normal. A Grab cannot be a counter.
 
-3) Parry Rolls
-When you roll a 20 on a Parry (be it TK, H2H or Sword), the Parry automatically succeeds unless your Opponent rolls a higher Strike on a 20. The END loss your Opponent suffers is doubled; TK Parries do nothing additional and do not gain this double effect.
+3. Parry Rolls
+   When you roll a 20 on a Parry (be it TK, H2H or Sword), the Parry automatically succeeds unless your Opponent rolls a higher Strike on a 20. The END loss your Opponent suffers is doubled; TK Parries do nothing additional and do not gain this double effect.
 
-4) Parry Blast Rolls
-When you roll a 20 on a Parry Blast, you can choose to Immediately slap the blast back where it came from at no additional Ki cost and the Damage becomes AP/SP. If it's a Ki Attack that cannot be returned, it's simply Parried away instead. The Attacker becomes the Defender against your Parry Blast result as if it wasn't an automatic hit. If Damage goes to HP; it is not a Critical Hit unless their attack had been a Nat 20 and you beat their Strike roll through modifiers.
+4. Parry Blast Rolls
+   When you roll a 20 on a Parry Blast, you can choose to Immediately slap the blast back where it came from at no additional Ki cost and the Damage becomes AP/SP. If it's a Ki Attack that cannot be returned, it's simply Parried away instead. The Attacker becomes the Defender against your Parry Blast result as if it wasn't an automatic hit. If Damage goes to HP; it is not a Critical Hit unless their attack had been a Nat 20 and you beat their Strike roll through modifiers.
 
-5) Auto-Critical Effects
-If an Attack is Auto-Critical (or higher, ala DAC) and a 20 is rolled; the Critical effect escalates to the next level (AC becomes a Double Critical, DAC becomes a Triple critical). Triple criticals can not be escalated further and 20'ing on them only auto-hits - unless your opponent rolls a Nat 20 and beats your final result. Auto-Critical effects are not AP/SP like a Nat 20, but become so if a Nat 20 is rolled.
-
+5. Auto-Critical Effects
+   If an Attack is Auto-Critical (or higher, ala DAC) and a 20 is rolled; the Critical effect escalates to the next level (AC becomes a Double Critical, DAC becomes a Triple critical). Triple criticals can not be escalated further and 20'ing on them only auto-hits - unless your opponent rolls a Nat 20 and beats your final result. Auto-Critical effects are not AP/SP like a Nat 20, but become so if a Nat 20 is rolled.
 
 If someone Advanced Blocks or otherwise reduces an AC effect, a d20 is still rolled. If a Nat 20 is rolled; the Critical upgrades and then is reduced by the Block back down. It still has a risk of escalating further if the 1d100 is rolled high enough to do so.
-
 
 Natural 20's only inflict a Critical Effect upon the victim if they take Damage after Reductions! If the defender can reduce the damage to 0; then they do not suffer a Critical Effect
 
@@ -300,7 +271,6 @@ There are several different types of Damage. While damage is dealt almost exclus
 
 Armor Piercing (AP)
 Attacks with this effect go through Armor and Resistance more effectively, splitting half of the Damage stopped by Armor, to HP. Addiitonally, it halves Resistance.
-
 
 Example: (Damage) to Armor and +(Damage Stopped)/2 to HP before Damage Reduction.
 
@@ -322,18 +292,7 @@ The hardest-hitting and rarest type of Damage there is, it can not be prevented 
 Attack Addons
 These modify an Attack to do something special; be it being able to redirect the attack, cause someone to continually take HP / End Damage, or by stunning them.
 
-
 Superspeeds, PKU, Bulks, Features and other Powers can also be considered Addons.
-
-
-
-
-
-
-
-
-
-
 
 Remote Attacks
 Ki Attacks sometimes have the property of being Remote; which means they can be redirected after being fired to try and hit someone who Dodged the attack initially. This requires a second Ki Strike roll, which can't benefit from any form of Superspeed or Teleportation.
