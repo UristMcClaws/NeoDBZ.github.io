@@ -3,6 +3,9 @@ layout: default
 title: High Races
 permalink: /races/high-races/
 nav: false
+
+toc:
+  sidebar: left
 ---
 
 
@@ -44,13 +47,13 @@ nav: false
 }
 @media (prefers-color-scheme: dark) {
   .toc-sidebar {
-    background: #222; /* Optional: darken sidebar background */
+    background: #222222; /* Optional: darken sidebar background */
   }
   .toc-sidebar a {
     color: #66aaff; /* Lighter blue for dark mode */
   }
   .toc-sidebar strong {
-    color: #fff;
+    color: #ffffff;
   }
 }
 body {
