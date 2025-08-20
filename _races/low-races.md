@@ -68,6 +68,8 @@ Example: Chiaotzu.
 - (Ment) 'Mental Barrier' - This power is automatically obtained at Level 5.
   The Chou-jin are able to tap in to their Ki and manipulate it to grant a constant form of protection. This gives a Resistance value based on your MNT/4. Stacking with other forms of Resistance.
 
+<br><br>
+
 <h2 id="hr2">Ligon</h2>
 Ligons are a small, green-skinned people with four eyes. They are renowned for both their ability to manipulate time and their unrelenting refusal to provide any details about their home world, Ligon. This paranoia is so widespread that it often follows Ligons to other planets they live on, such is the case of Liquius where even the humans and reptiles on the planet feel the same paranoia about world visitors. Though one would be wise not to say this to them, Ligon are very much distant relatives to frogs. Though they are humanoid, they are amphibians, not mammals.
 
@@ -244,3 +246,115 @@ Example:  Tien (Tienshinhan).<br>
 - (Phys) 'Trifork' - The Triclops must be Level 3 before taking this power.<br> While you have 50% of your maximum HP or more, you may Split into three bodies using 'Splitform'. However, you may not inflict Critical Effects while you have three or more Splits active. A critical roll will still make the attack AP/SP/Stun as normal. You may maintain multiple splits while below 50% HP, you just can't make them.<br><br>
 - (Phys) 'Quad-Form' - The Triclops must be Level 4 before taking this power.<br> While you have 75% of your maximum HP or more, you may Split into four bodies using 'Splitform'. However, you may not inflict Critical Effects while you have three or more Splits active. A critical roll will still make the attack AP/SP/Stun as normal. You may maintain multiple splits while below 75% HP, you just can't make them.<br><br>
 - (Ment) 'Teamwork' - This power is automatically obtained at Level 5.<br> Your Splits become significantly better at using group tactics to take opponents down together. You've become immune to area of effect attacks from your own Splits, such as the power 'Taiyoken'. If multiple Splits attack the same person at the same time; their DEX and MNT are increased by 5% for each Split attacking for purposes of strike rolls only (+10% with two, +15% with three, +20% with four).
+
+<h2 id="hr5">Tsufuru-Jin</h2>
+The Tsufuru-jin (also referred to as a Tuffle) are a frail, yet highly intelligent native of the Planet Plant. They protected their domain from the chaotic race of wilderness-dwelling Saiyans, but ultimately lost the battle and were forced off their own homeworld, now renamed Vegeta. Their civilization was heavily advanced and possessed technology that allows them to move spaceships beyond the speed of light, which is where they now live - in the cold depths of space. They appear to be naturally adept with using all forms of technology beyond the normal means of most races, which has given them an edge at survival that few would be able to achieve in such harsh conditions. They are not a particularly vengeful race. However, they might harbor ill-will or distrust towards Saiyans.<br><br>
+Average Height: 5'9" (175 cm)<br>
+Average Weight: 160 pounds (72 kg)<br>
+Life Span: 250-300 years.<br>
+Interesting Traits: Craftsman, technologically advanced.<br><br>
+Example: Tuffle King, Dr. Raichi.<br>
+  
+| Stat | Base  |
+|:---:|:------------|
+|  Int  |   25      |
+|  Mnt  |     13    |
+|  Str |      9   |
+|  Dex  |    9    |
+|  Stm  |  10 |
+|  Spd  |   9 |
+
+> Distribute 27 additional points, max of 9 in 1 stat<BR><br>
+> HP: 8 x STM + 10 x Level<BR>
+> Ki: 8 x MNT + 15 x Level<BR>
+> LP: 14 x STM<BR><br>
+> HP Mod Increase at: 5, 10, 15, etc.<BR>
+> Ki Mod Increase at: 5, 10, 15, etc.<BR><BR>
+> Every Level-up, Tusufuru-jin gain 5 points to divide amongst their stats and an automatic 1 to all Stats.<br><br>
+> At Level 1, pick six powers. <br>
+> Every Level-up, gain two powers.
+
+#### -=( Racial Features )=-<br><br>
+
+- (Ment) Tsufuru-jin may not be the the physically strongest or forceful of races, but they are apt in finding the weaknesses of their supposed superiors. Tuffles may use INT/4 as their damage modifier for all attacks. When using their blaster, they must use INT/4 as their damage modifier.<br><br>
+- (Ment) Tsufuru-jin are capable of rapidly mastering new skills. Every time they level up, they gain 1 additional power, following the normal rules for gaining powers every level.<br><br>
+- (Ment) Tsufuru-jin rely on advanced weaponry to make up for their, otherwise, weak attacks. Tuffles carry around "Blasters" and other weaponry capable of harming mighty foes. Metal ammunition functions as a Racial Sword that deals 4d10 AP damage per level and becomes AS at Level 11. It, also, has a 'Powercell' pool of 6 Energy. By consuming one energy, you may fire a Ki Offense power through the Blaster. Using a power in this way does not cost Ki; but you must still pay for the cost of any addons. Multi or Combo powers costs 2 Energy, +1 Energy per attack in the combo. When you use your Blaster to fire Ki attacks; you instead use your DEX mod for your strike roll and gain +Level/2 bonus to Strike. You may not fire Invents, powers gained through the Ki Fighting Style, or any other attack that is not a "Ki Offense Power" through your blaster.<br><br>
+- (Ment) Tsufuru-jin are some of the most apt craftsmen in the universe. They may learn 'Recipes, as though they were powers. Recipes allow them to craft items by spending a certain amount of credits and Neo Weeks spent crafting. You may only craft one item at a time. But, crafting does not interfere with training or fighting.<br><br>
+- (Ment) Tsufuru-jin start with a regular school of their choice at Level 1 and gain another school for free at Level 5, 10, 15 and 20. If they do not have the INT to learn another school, this takes them temporarily above their limit, but may delay learning future schools. Schools gained in this way grant double the normal stat bonus.
+
+#### -=( Racial Powers )=-<br><br>
+
+- (Phys) 'Reload!' - This power is automatically obtained at Level 1.<br> By spending an action, a Tuffle may recharge all of the 6 Energy in his Blaster's Power Cell.<br><br>
+- (Ment) 'Advanced Shield Projectors' - This power may be obtained at Level 1.<br> Tuffles deploy powerful personal shields to protect themselves. This shield costs no Ki and stops up to Levelx50+INT/2 damage, or half in SP damage. At Level 5, this shield stops an additional INT/2 damage from SP and non-SP attacks. This shield may be used an unlimited number of times per round, but only once per combo.<br><br>
+- (Ment) 'Arms and Armor Crafting' - This power may be obtained at Level 1.<br> You may craft or repair Weapons or Armor of any type. This costs half of the normal amount of credits than to buy and takes 1 Neo Week for a weapon or 1 Neo Week per Rank for Armor to complete. Repairing Armor takes half of the time and credits of building a new one.<br><br>
+- (Ment) 'Basic Gear Crafting' - This power may be obtained at Level 1.<br> You may craft Scouters, Dragon Ball Radars, Trinkets, Spacesuits, Spacesuit Repair Kits and Weighted Clothing. This costs half of the normal amount of credits than to buy and takes 2 Neo Weeks.<br><br>
+- (Ment) Rejuvenator Crafting - This power may be obtained at Level 1.<br> You may craft Rejuvenators and their special equipment that allows for warriors to rapidly heal. This costs an amount of credits and time spent crafting it, as detailed below and it must be in a Dwelling. While crafting a Rejuvenator, you may not craft anything else, but may fight and train normally.
+- Basic Model: Restores +10% HP and Ki per Neo Hour and doubles LP recovery. Costs 1,000 Credits and 2 Neo Weeks.
+- Advanced Model: Restores +20% HP and Ki per Neo Hour and doubles LP recovery. Costs 3,000 Credits and 4 Neo Weeks. Level 1 criticals are healed in 12 RL Hours.
+- Deluxe Model: Restores +30% HP and Ki per Neo Hour and doubles LP recovery. Costs 9,000 Credits and 6 Neo Weeks. Level 2 criticals are healed in 12 RL Hours, Level 1 criticals in 6 RL Hours.
+- Miracle Model: Restores +40% HP and Ki per Neo Hour and doubles LP recovery. Costs 27,000 Credits and 8 Neo Weeks. Level 3 criticals are healed in 12 RL Hours, Level 2 criticals in 6 RL Hours, and Level 1 criticals in 3 RL Hours.
+- A Model may be "upgraded" by paying the difference in cost and time. For instance, going from Advanced to Miracle costs 24,000 Credits and 4 Neo Weeks.<br><br>
+- (Ment) 'Advanced Recipes' - This power may be obtained at Level 1.<br> This Recipe may be selected up to twice; Select two of the following benefits. These benefits do not stack with themselves. But, you can apply more than one modification to a single item.
+- Armor crafted by you gains your +(INT/5)% to its HP. The armor, also, grants +INT/4 Resistance. This counts your INT at the time of crafting.
+- You may add a second effect to a Trinket that only has one effect on it. You may not place the same effect on a Trinket twice. This costs 1,000 Credits and 1 Neo Week of crafting.
+- You may add a third effect to a Trinket with two effects on it. You may not place the same effect on a Trinket twice. This costs 1,500 Credits and 1 Neo Week of crafting.
+- Tuffle Weighted Clothing crafted by you does not have a Strike or Dodge penalty associated with it.
+- You may improve the striking point of a weapon; increasing its damage by +1d10 damage per level of the wielder. This costs 300 Credits and 1 Neo Week spent crafting.
+- You may rebalance a weapon, making the 'Slice' power cost -1 End to use up to a minimum of 1. This costs 300 Credits and 1 Neo Week spent crafting.
+- You may improve a weapon's basic design. Basic attacks and the 'Slice' power deal +20% base damage. This costs 300 Credits and 1 Neo Week spent crafting.
+- Dragon Ball Radars made by you have a +15% chance to find the Dragon Balls.<br><br>
+- (Ment) 'Operation' - The Tsufuru-jin must be Level 5 before taking this power.<br>Okay, look. When something is broken, you don't duct tape it up and hope it fixes itself... Maybe, you do. But, Tsufuru-jin know that replacement is always more effective (and fun) than letting it heal over time. A Tsufuru-jin may take up to one person under their "care" and in a single Neo week--using surgery and robotics to repair Critical hits. The results are usually significantly shinier and more obvious than the patient expected. But, few can argue with the results. The Tsufuru-jin can't spend that Neo week crafting (potentially delaying existing projects by 1 Neo Week), but is otherwise not occupied. The person taken under care must spend a certain amount of time recovering from the surgery. During which time, they may not fight. A Tsufuru-jin may work on themselves.
+- AC Broken Bone: 3 RL Hours.
+- DAC Broken Bone: 12 RL Hours.
+- TAC Broken Bone or Removed Limb: 24 RL Hours.
+
+<h2 id="hr6">Yardrat</h2>
+The Yardrats are an alien race, who live a few light years away from planet Namek. While their planet seems to be without excess, their style of clothing emulates gluttony. Often, their outfits are lavish with ruffles and belts. Any variation of the style is acceptable based on social standing. However, deviation from the basic idea of the most popular fashion will often get a Yardrat discriminated against by his peers. Damaging a Yardrat's clothes may be perceived as a huge sign of disrespect.<br><br>
+Physically, they never stand more than four feet tall, and never weigh more than seventy pounds. They, also, only come in one color: pink! Their bodies are small in comparison to their skull, which balloons above their large, round, yellow eyes like a globe, spotted with purple along the top center. These purple spots can differ in variation. But, by no means are they a reliable way of differentiating one Yardrat from another. They only have four fingers on either hand, and four toes on each foot. Yardrat do not have hair anywhere on their bodies. This includes a distinct lack of eyebrows. Androgyny is the name of the game if you are a Yardrat. It is speculated that they reproduce by growing their young in test tubes, created from an amalgamation of their DNA and other Yardrat DNA. They are born with the knowledge of each DNA donor. Thus, they are able to enter society almost immediately after being born.<br><br>
+As a species, the Yardrat have proven to be nice to outsiders, welcoming the rare few who find their planet, and are curious of them. It is not in a Yardrat to deny the opportunity for gaining knowledge. They are, also, eager to share their knowledge and ability concerning the manipulation of time and space, if they see it to be helpful to someone outside of their own race. Their society is a perfect picture of unity. And, it is very rare for one Yardrat to turn down another who may need help.<br><br>
+Height: 3-4' (Max) (91-121 cm)<br>
+Weight: 60 - 70 pounds (27-31 kg)<br>
+Life Span: 200-300 years. Age can be relatively determined by the amount of wrinkles on a Yardrat's face.<br>
+Interesting Traits: When living in large groups, Yardrats are thought to follow a hive-mind mentality. Only a few Yardrats ever speak.<br><br>
+Example: The Anime series did not single out a Yardrat. However, they are shown en masse, clustering around Goku's crashed space pod. They nurse him back to health, repair his ship, and teach him the Instant Transmission technique before sending him back home. He has no complaints about the species and seems rather fond of them in his recollection.
+  
+| Stat | Base  |
+|:---:|:------------|
+|  Int  |     18    |
+|  Mnt  |     20    |
+|  Str |     7    |
+|  Dex  |    10    |
+|  Stm  | 10  |
+|  Spd  |  14  |
+
+> Distribute 27 additional points, max of 9 in 1 stat.<BR><BR>
+> HP: 8 x STM + 10 x Level<BR>
+> Ki: 15 x MNT + 30 x Level<BR>
+> LP: 15 x STM<BR><BR>
+> HP Mod Increase at: 4, 8, 12, etc.<BR>
+> Ki Mod Increase at: 6, 12, 18, etc.<BR><BR>
+> Every Level-up, Yardrats gain 5 points to divide amongst their stats and an automatic 1 to all Stats.<br><br>
+> At Level 1, pick six powers. <br>
+> Every Level-up, gain two powers.
+
+#### -=( Racial Features )=-<br><br>
+
+- (Ment) Yardrats have a natural talent to slightly warp space and time, making them appear faster than they really are in reality. They gain a +2 to Initiative rolls and +1 APR.<br><br>
+- (Ment) Yardrats have a great mastery of their Ki, granting Max Ki/25 damage to Ki attacks. (Charging does not affect this)<br><br>
+- (Ment) Due to their overwhelming abilities with Ki, they are, also, proficient with the mind. They gain Levelx5 damage to TK and Hybrid powers.<br><br>
+- (Phys) Due to their small size, Yardrats have a +4 to Dodge rolls.<br><br>
+- (Ment) Yardrats have a unique understanding of Ki and can use it defensively in ways other races can't. When a Yardrat uses the 'Aura of Protection' power, it has a limit of 35 Ki per Level instead of the regular 25. Yardrats can also use up to 30 Ki per Level with the Supreme Aura power.<br><br>
+- (Ment) Yardrats start with a school of their choice at Level 1 and gain another school for free at Level 5, 10, 15, and 20. If they do not have the INT to learn another school, this takes them temporarily above their limit, but may delay learning future schools. Schools gained in this way grant double the normal stat bonus. <br><br>
+
+#### -=( Racial Powers )=-<br><br>
+
+- (Ment) 'Temporal Distortion' - The Yardrat must be Level 3 before taking this power.<br> By freezing time, the Yardrat can automatically Dodge an attack like using the 'Freeze' Telekinesis power, but may be used once every two rounds and costs only 150 Ki and 3 End.
+- (Ment) 'Shunkan Idou' - The Yardrat must have the Temporal Distortion power and be Level 6 before taking this power.<br>More commonly known as 'Instant Transmission', it allows the Yardrat to teleport themself to any place that they can see or to a person whose Ki that they can Sense. When used in battle; it gives a MNT/5 bonus to a Strike or Dodge roll, replacing other Superspeeds. It costs 150 Ki and 3 End to use and can only be used once every two rounds. By touching them, one other person may be brought with the Yardrat (usually, this means they are in a grapple) and by paying an additional 150 Ki and 3 End. Used in this way, this lets the Yardrat dodge an attack originating from outside a grapple and/or allows them to help other people escape (see IT Escape). The other person need not be willing, but they do get a Grapple Break attempt (even Flare Break) to prevent it if they choose.<br>
+  When the Yardrat reaches Level 12, they can teach this power to a single person, who must be at least Level 8. Teaching this power takes two Neo weeks. During which time, neither person may fight or train. The person taught this technique can not teach it to anyone.
+
+##### IT Escape<br>
+
+Before a battle has started, if someone attacks you ('calls init'); you can not teleport away to avoid combat altogether. When you wish to leave a scene in this manner, declare you're doing so and check that no one intends to stop you. If they do wish to stop or attack you, Initiative is rolled as normal. On the first action you get, you may attempt to teleport away, declaring it. Anyone, who wishes to attack you, may make any basic attack or basic discharge, with add-ons as normal, against your single Dodge with your bonus from IT.<br><br>
+If you dodge their attack, you successfully leave the scene. If they hit you, you have failed to escape and take damage; even if you reduce that damage to zero, you fail to teleport. It must be your action to teleport away. If you teleport and the person that you are fighting is also capable of teleporting with Kai Kai/IT, they may follow you as a pursuit.<br><br>
+Failure to teleport away from combat still costs the power's normal amount of Ki and End.<br><br>
+Note: If you use Freeze or Temporal Distortion; it still only allows you to avoid a single attack, not all attacks from multiple opponents.
