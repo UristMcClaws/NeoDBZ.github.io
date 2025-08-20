@@ -21,8 +21,6 @@ nav: false
   top: 100px; /* adjust as needed */
   left: 0;
   width: 220px;
-  background: #000000;
-  border-right: 1px solid #ddd;
   padding: 20px 10px;
   height: 80vh;
   overflow-y: auto;
