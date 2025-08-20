@@ -42,6 +42,17 @@ nav: false
 .toc-sidebar a:hover {
   text-decoration: underline;
 }
+@media (prefers-color-scheme: dark) {
+  .toc-sidebar {
+    background: #222; /* Optional: darken sidebar background */
+  }
+  .toc-sidebar a {
+    color: #66aaff; /* Lighter blue for dark mode */
+  }
+  .toc-sidebar strong {
+    color: #fff;
+  }
+}
 body {
   margin-left: 240px; /* add space for the sidebar */
 }
