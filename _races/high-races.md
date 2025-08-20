@@ -21,7 +21,7 @@ nav: false
   top: 100px; /* adjust as needed */
   left: 0;
   width: 220px;
-  background: #000000;
+  background: inherit;
   border-right: 1px solid #ddd;
   padding: 20px 10px;
   height: 80vh;
@@ -37,7 +37,7 @@ nav: false
 }
 .toc-sidebar a {
   text-decoration: none;
-  color: #333;
+  color: #0000ee;
 }
 .toc-sidebar a:hover {
   text-decoration: underline;
@@ -603,7 +603,7 @@ Every even Level (2, 4, 6, etc), gain one additional Power.
 
 (Phys) 'Form Drinker' - You must be level 4 before taking this power.<br> A true terror; this Power is both the Yarkon's greatest strength and its greatest weakness. Activating or deactivating this power takes an Action. When activated, the Yarkon must nominate one opponent in the Battle. On that Opponent's turn; if they are in or choose to activate a non-Permanent Superform; they lose the Yarkon's Level x 1 in END and Yarkon's Level x 10 in Ki, while the Yarkon adds his Level x 25 in Ki to their Lightdrinker Pool. If the opponent loses END or Ki from this, then the Yarkon rolls 40 + (higher of the Yarkon's Base STM or Base MNT)/2 - Opponent's Base STM/2 - 1d100. On a 0 or higher, the Opponent loses all benefits from their Superform until the start of their next Action. If losing their Superform causes them to lose enough APR that they lose their current Action, their turn immediately ends. This does not work against Oozaru. However, if False Moon was used the Yarkon may "drink" the Ki from it, destroying it; granting the Yarkon 500 Lightdrinker Ki and causes all Oozaru to revert to normal.<BR><BR>
 
-> Losing access to your Superform reduces your Current and Maximum HP, Ki, END, et cetera. This may result in the opponent falling Unconscious.<br><br>
+Losing access to your Superform reduces your Current and Maximum HP, Ki, END, et cetera. This may result in the opponent falling Unconscious.<br><br>
 False Moons do, in fact, taste like false cheese.
 
 <BR>
