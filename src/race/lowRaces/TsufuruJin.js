@@ -1,31 +1,32 @@
 // Tsufuru-jin race definition
 
-import Race from '../Race';
+// Tsufuru-jin race definition
+import Race from '../races.js';
 import RaceFeature from '../raceFeatures.js';
 import RacePower from '../racePowers.js';
 
 const features = [
-    new RaceFeature(
-      "Mental",
-      "Tsufuru-jin may not be the the physically strongest or forceful of races, but they are apt in finding the weaknesses of their supposed superiors. Tuffles may use INT/4 as their damage modifier for all attacks. When using their blaster, they must use INT/4 as their damage modifier."
-    ),
-    new RaceFeature(
-      "Mental", 
-      "Tsufuru-jin are capable of rapidly mastering new skills. Every time they level up, they gain 1 additional power, following the normal rules for gaining powers every level."
-    ),
-    new RaceFeature(
-      "Mental",
-      "Tsufuru-jin rely on advanced weaponry to make up for their, otherwise, weak attacks. Tuffles carry around 'Blasters' and other weaponry capable of harming mighty foes. Metal ammunition functions as a Racial Sword that deals 4d10 AP damage per level and becomes AS at Level 11. It, also, has a 'Powercell' pool of 6 Energy. By consuming one energy, you may fire a Ki Offense power through the Blaster. Using a power in this way does not cost Ki; but you must still pay for the cost of any addons. Multi or Combo powers costs 2 Energy, +1 Energy per attack in the combo. When you use your Blaster to fire Ki attacks; you instead use your DEX mod for your strike roll and gain +Level/2 bonus to Strike. You may not fire Invents, powers gained through the Ki Fighting Style, or any other attack that is not a 'Ki Offense Power' through your blaster."
-    ),
-    new RaceFeature(
-      "Mental",
-      "Tsufuru-jin are some of the most apt craftsmen in the universe. They may learn 'Recipes', as though they were powers. Recipes allow them to craft items by spending a certain amount of credits and Neo Weeks spent crafting. You may only craft one item at a time. But, crafting does not interfere with training or fighting."
-    ),
-    new RaceFeature(
-      "Mental",
-      "Tsufuru-jin start with a regular school of their choice at Level 1 and gain another school for free at Level 5, 10, 15 and 20. If they do not have the INT to learn another school, this takes them temporarily above their limit, but may delay learning future schools. Schools gained in this way grant double the normal stat bonus."
-    ),
-]
+  new RaceFeature(
+    'Mental',
+    "Tsufuru-jin may not be the the physically strongest or forceful of races, but they are apt in finding the weaknesses of their supposed superiors. Tuffles may use INT/4 as their damage modifier for all attacks. When using their blaster, they must use INT/4 as their damage modifier."
+  ),
+  new RaceFeature(
+    'Mental',
+    'Tsufuru-jin are capable of rapidly mastering new skills. Every time they level up, they gain 1 additional power, following the normal rules for gaining powers every level.'
+  ),
+  new RaceFeature(
+    'Mental',
+    "Tsufuru-jin rely on advanced weaponry to make up for their, otherwise, weak attacks. Tuffles carry around 'Blasters' and other weaponry capable of harming mighty foes. Metal ammunition functions as a Racial Sword that deals 4d10 AP damage per level and becomes AS at Level 11. It, also, has a 'Powercell' pool of 6 Energy. By consuming one energy, you may fire a Ki Offense power through the Blaster. Using a power in this way does not cost Ki; but you must still pay for the cost of any addons. Multi or Combo powers costs 2 Energy, +1 Energy per attack in the combo. When you use your Blaster to fire Ki attacks; you instead use your DEX mod for your strike roll and gain +Level/2 bonus to Strike. You may not fire Invents, powers gained through the Ki Fighting Style, or any other attack that is not a 'Ki Offense Power' through your blaster."
+  ),
+  new RaceFeature(
+    'Mental',
+    "Tsufuru-jin are some of the most apt craftsmen in the universe. They may learn 'Recipes', as though they were powers. Recipes allow them to craft items by spending a certain amount of credits and Neo Weeks spent crafting. You may only craft one item at a time. But, crafting does not interfere with training or fighting."
+  ),
+  new RaceFeature(
+    'Mental',
+    'Tsufuru-jin start with a regular school of their choice at Level 1 and gain another school for free at Level 5, 10, 15 and 20. If they do not have the INT to learn another school, this takes them temporarily above their limit, but may delay learning future schools. Schools gained in this way grant double the normal stat bonus.'
+  ),
+];
 
 const powers = [
   new RacePower(
@@ -63,10 +64,10 @@ const powers = [
     "Okay, look. When something is broken, you don't duct tape it up and hope it fixes itself... Maybe, you do. But, Tsufuru-jin know that replacement is always more effective (and fun) than letting it heal over time. A Tsufuru-jin may take up to one person under their 'care' and in a single Neo week--using surgery and robotics to repair Critical hits. The results are usually significantly shinier and more obvious than the patient expected. But, few can argue with the results. The Tsufuru-jin can't spend that Neo week crafting (potentially delaying existing projects by 1 Neo Week), but is otherwise not occupied. The person taken under care must spend a certain amount of time recovering from the surgery. During which time, they may not fight. A Tsufuru-jin may work on themselves.\n- AC Broken Bone: 3 RL Hours.\n- DAC Broken Bone: 12 RL Hours.\n- TAC Broken Bone or Removed Limb: 24 RL Hours.",
     'Mental'
   ),
-]
+];
 
-export const TsufuruJin = new Race({
-  Name: 'Tsufuru-jin',
+const TsufuruJin = new Race({
+  Name: 'TsufuruJin',
   Class: 'Low',
   Description: `The Tsufuru-jin (also referred to as a Tuffle) are a frail, yet highly intelligent native of the Planet Plant. They protected their domain from the chaotic race of wilderness-dwelling Saiyans, but ultimately lost the battle and were forced off their own homeworld, now renamed Vegeta. Their civilization was heavily advanced and possessed technology that allows them to move spaceships beyond the speed of light, which is where they now live - in the cold depths of space. They appear to be naturally adept with using all forms of technology beyond the normal means of most races, which has given them an edge at survival that few would be able to achieve in such harsh conditions. They are not a particularly vengeful race. However, they might harbor ill-will or distrust towards Saiyans.`,
   Int: 25,
@@ -81,7 +82,7 @@ export const TsufuruJin = new Race({
   HpLevel: 10,
   KiAttribute: 8,
   KiLevel: 15,
-  LpAttribute: 'Stm',
+  LpAttribute: 14,
   StartingPoints: 27,
   StartingPointsMax: 9,
   LevelPoints: 5,
@@ -90,3 +91,5 @@ export const TsufuruJin = new Race({
   StartingPowers: 6,
   LevelupPowers: 2,
 });
+
+export default TsufuruJin;
