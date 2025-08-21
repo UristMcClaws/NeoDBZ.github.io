@@ -4,10 +4,7 @@ import RacePower from "../racePowers.js";
 
 // Default features and powers for Chou-Jin
 const features = [
-  new RaceFeature(
-    "Physical",
-    "Due to their small size, Chou-jin always have +4 to Dodge rolls."
-  ),
+  new RaceFeature("Physical", "Due to their small size, Chou-jin always have +4 to Dodge rolls."),
   new RaceFeature(
     "Physical",
     `Chou-jin start with the Basic Flight power and do not have to pay Ki to use it. Other flight powers still cost Ki as normal. Chou-jin gain a bonus to all Strike and Dodge rolls according to the form of Flight they’re using:<br>
@@ -46,8 +43,7 @@ const powers = [
 const ChouJin = new Race({
   Name: "Chou-Jin",
   Class: "Low",
-  Description:
-    `Their bodies never seem to age. They are quite strong with their Ki and have a talent for flying, but are physically one of the weakest races. Chou-jin are born in Heaven, created from a sinless soul and granted eternal life in a playful form. Though, most tend to grow into a mature being far wiser than their appearance gives them credit. Their life in Heaven is always short as they are simply given bodies, allowed a few days to adjust to them, then sent into the Neoverse. Like babies few ever remember their first few days. Furthermore, they may have been born in Heaven, but not all stay to a straight path. 
+  Description: `Their bodies never seem to age. They are quite strong with their Ki and have a talent for flying, but are physically one of the weakest races. Chou-jin are born in Heaven, created from a sinless soul and granted eternal life in a playful form. Though, most tend to grow into a mature being far wiser than their appearance gives them credit. Their life in Heaven is always short as they are simply given bodies, allowed a few days to adjust to them, then sent into the Neoverse. Like babies few ever remember their first few days. Furthermore, they may have been born in Heaven, but not all stay to a straight path. 
     <br><br> 
     Despite their inability to breed (due to their young age), these beings do have different genders. Being that the Chou-jin are not raised by any parental figures, they have no common cultural ties. One of the few ties these children share is that most look like large dolls, which makes sense as they were bodies with a soul grafted on them. On the other hand, many end up being taken care of by an adult, who worries about a child wandering around alone. In particular, Triclops are noted for having a special liking of these ageless children. 
     <br><br> 

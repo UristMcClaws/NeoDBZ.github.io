@@ -9,8 +9,6 @@ toc:
 layout: default
 ---
 
-
-
 <script type="module">
 import races from '../../src/race/defaultRaces.js';
 import { renderFeatures, renderPowers, renderModifiers, renderPowerBonus, renderRace } from '../../src/race/raceRenderers.js';

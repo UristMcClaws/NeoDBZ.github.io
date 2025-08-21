@@ -1,46 +1,54 @@
 // raceRenderers.js
 // Contains rendering functions for race pages
 
-import RaceFeature from './raceFeatures.js';
-import RacePower from './racePowers.js';
+import RaceFeature from "./raceFeatures.js";
+import RacePower from "./racePowers.js";
 
 export function renderFeatures(features) {
-  if (!features || !features.length) return '';
-  return `<div class="race-features"><h3>Features:</h3><ul>`
-    + features.map(f => {
+  if (!features || !features.length) return "";
+  return (
+    `<div class="race-features"><h3>Features:</h3><ul>` +
+    features
+      .map((f) => {
         const feat = f instanceof RaceFeature ? f : new RaceFeature(f.Type, f.Description);
         return `<li>(${feat.Type}) ${feat.Description}</li>`;
-      }).join('<br>')
-    + '</ul></div>';
+      })
+      .join("<br>") +
+    "</ul></div>"
+  );
 }
 
 export function renderPowers(powers) {
-  if (!powers || !powers.length) return '';
-  return `<div class="race-powers"><h3>Powers:</h3><ul>`
-    + powers.map(p => {
+  if (!powers || !powers.length) return "";
+  return (
+    `<div class="race-powers"><h3>Powers:</h3><ul>` +
+    powers
+      .map((p) => {
         const pow = p instanceof RacePower ? p : new RacePower(p.Name, p.Description, p.Type);
         return `<li>(${pow.Type}) <b>${pow.Name}</b>: ${pow.Description}</li>`;
-      }).join('<br>')
-    + '</ul></div>';
+      })
+      .join("<br>") +
+    "</ul></div>"
+  );
 }
 
 export function renderModifiers(race) {
-  let output = '';
+  let output = "";
   if (race.HpModIncrease && race.HpModIncrease.length > 0) {
-    output += `<div>HP Mod Increase at: ${race.HpModIncrease.join(', ')}, etc.</div>`;
+    output += `<div>HP Mod Increase at: ${race.HpModIncrease.join(", ")}, etc.</div>`;
   }
   if (race.KiModIncrease && race.KiModIncrease.length > 0) {
-    output += `<div>Ki Mod Increase at: ${race.KiModIncrease.join(', ')}, etc.</div>`;
+    output += `<div>Ki Mod Increase at: ${race.KiModIncrease.join(", ")}, etc.</div>`;
   }
-  return output || '';
+  return output || "";
 }
 
 export function renderPowerBonus(race) {
-  let output = '';
+  let output = "";
   if (race.Class && race.Class === "High") {
-    output += `<br>Every even Level (2, 4, 6, etc), gain 1 additional Power.`
+    output += `<br>Every even Level (2, 4, 6, etc), gain 1 additional Power.`;
   }
-  return output || '';
+  return output || "";
 }
 
 export function renderRace(race) {
@@ -48,7 +56,7 @@ export function renderRace(race) {
     <h2>
       ${race.Name}
     </h2>
-    <div>${race.Description || ''}</div>
+    <div>${race.Description || ""}</div>
     <br>
     <table class="race-stats-table">
       <thead>
