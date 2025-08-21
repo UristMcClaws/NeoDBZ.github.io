@@ -37,13 +37,9 @@ class Race {
     this.Stm = Stm;
     this.Spd = Spd;
     // Ensure Features is a list of RaceFeature instances
-    this.Features = Features.map((f) =>
-      f instanceof RaceFeature ? f : new RaceFeature(f.Name, f.Description)
-    );
+    this.Features = Features.map((f) => (f instanceof RaceFeature ? f : new RaceFeature(f.Name, f.Description)));
     // Ensure Powers is a list of RacePower instances
-    this.Powers = Powers.map((p) =>
-      p instanceof RacePower ? p : new RacePower(p.Name, p.Description, p.Type)
-    );
+    this.Powers = Powers.map((p) => (p instanceof RacePower ? p : new RacePower(p.Name, p.Description, p.Type)));
     this.HpAttribute = HpAttribute;
     this.HpLevel = HpLevel;
     this.KiAttribute = KiAttribute;

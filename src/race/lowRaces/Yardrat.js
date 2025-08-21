@@ -1,4 +1,3 @@
-
 import Race from "../races.js";
 import RaceFeature from "../raceFeatures.js";
 import RacePower from "../racePowers.js";
@@ -8,18 +7,12 @@ const features = [
     "Mental",
     "Yardrats have a natural talent to slightly warp space and time, making them appear faster than they really are in reality. They gain a +2 to Initiative rolls and +1 APR."
   ),
-  new RaceFeature(
-    "Mental",
-    "Yardrats have a great mastery of their Ki, granting Max Ki/25 damage to Ki attacks. (Charging does not affect this)"
-  ),
+  new RaceFeature("Mental", "Yardrats have a great mastery of their Ki, granting Max Ki/25 damage to Ki attacks. (Charging does not affect this)"),
   new RaceFeature(
     "Mental",
     "Due to their overwhelming abilities with Ki, they are, also, proficient with the mind. They gain Levelx5 damage to TK and Hybrid powers."
   ),
-  new RaceFeature(
-    "Physical",
-    "Due to their small size, Yardrats have a +4 to Dodge rolls."
-  ),
+  new RaceFeature("Physical", "Due to their small size, Yardrats have a +4 to Dodge rolls."),
   new RaceFeature(
     "Mental",
     "Yardrats have a unique understanding of Ki and can use it defensively in ways other races can't. When a Yardrat uses the 'Aura of Protection' power, it has a limit of 35 Ki per Level instead of the regular 25. Yardrats can also use up to 30 Ki per Level with the Supreme Aura power."
